@@ -1,0 +1,1 @@
+./templete/1SMJ_A/rec.pdb

@@ -1,0 +1,399 @@
+HETATM 6200  CHA HEM A 450       0.788  -0.194   7.368  1.00 11.36           C  
+HETATM 6201  CHB HEM A 450       1.738  -0.980   2.612  1.00  9.20           C  
+HETATM 6202  CHC HEM A 450      -2.866  -2.543   2.098  1.00 11.83           C  
+HETATM 6203  CHD HEM A 450      -3.850  -1.559   6.767  1.00 10.55           C  
+HETATM 6204  C1A HEM A 450       1.480  -0.282   6.165  1.00  9.54           C  
+HETATM 6205  C2A HEM A 450       2.892  -0.009   5.924  1.00 13.78           C  
+HETATM 6206  C3A HEM A 450       3.143  -0.205   4.581  1.00 13.00           C  
+HETATM 6207  C4A HEM A 450       1.894  -0.640   3.946  1.00 14.76           C  
+HETATM 6208  CMA HEM A 450       4.438  -0.056   3.782  1.00 11.46           C  
+HETATM 6209  CAA HEM A 450       3.907   0.436   7.026  1.00 15.24           C  
+HETATM 6210  CBA HEM A 450       4.084   1.948   6.911  1.00 17.32           C  
+HETATM 6211  CGA HEM A 450       5.249   2.465   7.765  1.00 15.40           C  
+HETATM 6212  O1A HEM A 450       5.784   1.719   8.656  1.00 12.50           O  
+HETATM 6213  O2A HEM A 450       5.547   3.657   7.578  1.00 16.11           O  
+HETATM 6214  C1B HEM A 450       0.560  -1.448   2.049  1.00 11.41           C  
+HETATM 6215  C2B HEM A 450       0.360  -1.780   0.654  1.00  8.54           C  
+HETATM 6216  C3B HEM A 450      -0.927  -2.211   0.510  1.00 14.01           C  
+HETATM 6217  C4B HEM A 450      -1.585  -2.131   1.827  1.00 15.09           C  
+HETATM 6218  CMB HEM A 450       1.467  -1.702  -0.425  1.00 10.27           C  
+HETATM 6219  CAB HEM A 450      -1.680  -2.700  -0.745  1.00 12.91           C  
+HETATM 6220  CBB HEM A 450      -1.063  -3.024  -1.872  1.00 15.07           C  
+HETATM 6221  C1C HEM A 450      -3.528  -2.537   3.344  1.00 14.23           C  
+HETATM 6222  C2C HEM A 450      -4.870  -2.997   3.647  1.00 15.82           C  
+HETATM 6223  C3C HEM A 450      -5.132  -2.687   4.945  1.00 15.52           C  
+HETATM 6224  C4C HEM A 450      -3.964  -2.002   5.475  1.00 14.95           C  
+HETATM 6225  CMC HEM A 450      -5.846  -3.737   2.665  1.00 16.80           C  
+HETATM 6226  CAC HEM A 450      -6.383  -2.965   5.812  1.00 14.69           C  
+HETATM 6227  CBC HEM A 450      -7.303  -3.877   5.512  1.00 19.51           C  
+HETATM 6228  C1D HEM A 450      -2.767  -0.955   7.352  1.00 15.38           C  
+HETATM 6229  C2D HEM A 450      -2.727  -0.345   8.682  1.00 15.00           C  
+HETATM 6230  C3D HEM A 450      -1.276   0.077   8.856  1.00 16.80           C  
+HETATM 6231  C4D HEM A 450      -0.561  -0.350   7.644  1.00 14.71           C  
+HETATM 6232  CMD HEM A 450      -3.907  -0.145   9.673  1.00 11.33           C  
+HETATM 6233  CAD HEM A 450      -0.701   0.773  10.099  1.00 14.25           C  
+HETATM 6234  CBD HEM A 450      -0.117  -0.438  10.876  1.00 17.03           C  
+HETATM 6235  CGD HEM A 450       0.527   0.053  12.160  1.00 12.18           C  
+HETATM 6236  O1D HEM A 450       0.880   1.226  12.230  1.00 16.59           O  
+HETATM 6237  O2D HEM A 450       0.644  -0.677  13.131  1.00 16.50           O  
+HETATM 6238  NA  HEM A 450       0.921  -0.696   4.945  1.00 13.51           N  
+HETATM 6239  NB  HEM A 450      -0.616  -1.677   2.738  1.00  9.67           N  
+HETATM 6240  NC  HEM A 450      -3.013  -1.957   4.481  1.00 13.84           N  
+HETATM 6241  ND  HEM A 450      -1.506  -0.954   6.806  1.00 15.91           N  
+HETATM 6242 FE   HEM A 450      -1.030  -1.400   4.733  1.00 12.10          FE  
+CONECT 2721 6242                                                                
+CONECT 5800 6417                                                                
+CONECT 6200 6204 6231                                                           
+CONECT 6201 6207 6214                                                           
+CONECT 6202 6217 6221                                                           
+CONECT 6203 6224 6228                                                           
+CONECT 6204 6200 6205 6238                                                      
+CONECT 6205 6204 6206 6209                                                      
+CONECT 6206 6205 6207 6208                                                      
+CONECT 6207 6201 6206 6238                                                      
+CONECT 6208 6206                                                                
+CONECT 6209 6205 6210                                                           
+CONECT 6210 6209 6211                                                           
+CONECT 6211 6210 6212 6213                                                      
+CONECT 6212 6211                                                                
+CONECT 6213 6211                                                                
+CONECT 6214 6201 6215 6239                                                      
+CONECT 6215 6214 6216 6218                                                      
+CONECT 6216 6215 6217 6219                                                      
+CONECT 6217 6202 6216 6239                                                      
+CONECT 6218 6215                                                                
+CONECT 6219 6216 6220                                                           
+CONECT 6220 6219                                                                
+CONECT 6221 6202 6222 6240                                                      
+CONECT 6222 6221 6223 6225                                                      
+CONECT 6223 6222 6224 6226                                                      
+CONECT 6224 6203 6223 6240                                                      
+CONECT 6225 6222                                                                
+CONECT 6226 6223 6227                                                           
+CONECT 6227 6226                                                                
+CONECT 6228 6203 6229 6241                                                      
+CONECT 6229 6228 6230 6232                                                      
+CONECT 6230 6229 6231 6233                                                      
+CONECT 6231 6200 6230 6241                                                      
+CONECT 6232 6229                                                                
+CONECT 6233 6230 6234                                                           
+CONECT 6234 6233 6235                                                           
+CONECT 6235 6234 6236 6237                                                      
+CONECT 6236 6235                                                                
+CONECT 6237 6235                                                                
+CONECT 6238 6204 6207 6242                                                      
+CONECT 6239 6214 6217 6242                                                      
+CONECT 6240 6221 6224 6242                                                      
+CONECT 6241 6228 6231 6242                                                      
+CONECT 6242 2721 6238 6239 6240                                                 
+CONECT 6242 6241 6727                                                           
+CONECT 6243 6244                                                                
+CONECT 6244 6243 6245 6273                                                      
+CONECT 6245 6244 6246                                                           
+CONECT 6246 6245 6247                                                           
+CONECT 6247 6246 6248 6249                                                      
+CONECT 6248 6247                                                                
+CONECT 6249 6247 6250 6262                                                      
+CONECT 6250 6249 6251                                                           
+CONECT 6251 6250 6252 6260                                                      
+CONECT 6252 6251 6253                                                           
+CONECT 6253 6252 6254 6255                                                      
+CONECT 6254 6253                                                                
+CONECT 6255 6253 6256                                                           
+CONECT 6256 6255 6257 6260                                                      
+CONECT 6257 6256 6258 6259                                                      
+CONECT 6258 6257                                                                
+CONECT 6259 6257                                                                
+CONECT 6260 6251 6256 6261                                                      
+CONECT 6261 6260                                                                
+CONECT 6262 6249 6263 6264                                                      
+CONECT 6263 6262                                                                
+CONECT 6264 6262 6265                                                           
+CONECT 6265 6264 6266 6267                                                      
+CONECT 6266 6265                                                                
+CONECT 6267 6265 6268 6269                                                      
+CONECT 6268 6267                                                                
+CONECT 6269 6267 6270                                                           
+CONECT 6270 6269 6271                                                           
+CONECT 6271 6270 6272                                                           
+CONECT 6272 6271 6277                                                           
+CONECT 6273 6244 6274                                                           
+CONECT 6274 6273 6275 6277                                                      
+CONECT 6275 6274 6276                                                           
+CONECT 6276 6275                                                                
+CONECT 6277 6272 6274 6278 6279                                                 
+CONECT 6278 6277                                                                
+CONECT 6279 6277 6280                                                           
+CONECT 6280 6279 6281                                                           
+CONECT 6281 6280 6282 6285                                                      
+CONECT 6282 6281 6283 6290                                                      
+CONECT 6283 6282 6284                                                           
+CONECT 6284 6283                                                                
+CONECT 6285 6281 6286                                                           
+CONECT 6286 6285 6287 6288                                                      
+CONECT 6287 6286                                                                
+CONECT 6288 6286 6289 6290                                                      
+CONECT 6289 6288                                                                
+CONECT 6290 6282 6288 6291                                                      
+CONECT 6291 6290 6292                                                           
+CONECT 6292 6291                                                                
+CONECT 6293 6294                                                                
+CONECT 6294 6293 6295 6323                                                      
+CONECT 6295 6294 6296                                                           
+CONECT 6296 6295 6297                                                           
+CONECT 6297 6296 6298 6299                                                      
+CONECT 6298 6297                                                                
+CONECT 6299 6297 6300 6312                                                      
+CONECT 6300 6299 6301                                                           
+CONECT 6301 6300 6302 6310                                                      
+CONECT 6302 6301 6303                                                           
+CONECT 6303 6302 6304 6305                                                      
+CONECT 6304 6303                                                                
+CONECT 6305 6303 6306                                                           
+CONECT 6306 6305 6307 6310                                                      
+CONECT 6307 6306 6308 6309                                                      
+CONECT 6308 6307                                                                
+CONECT 6309 6307                                                                
+CONECT 6310 6301 6306 6311                                                      
+CONECT 6311 6310                                                                
+CONECT 6312 6299 6313 6314                                                      
+CONECT 6313 6312                                                                
+CONECT 6314 6312 6315                                                           
+CONECT 6315 6314 6316 6317                                                      
+CONECT 6316 6315                                                                
+CONECT 6317 6315 6318 6319                                                      
+CONECT 6318 6317                                                                
+CONECT 6319 6317 6320                                                           
+CONECT 6320 6319 6321                                                           
+CONECT 6321 6320 6322                                                           
+CONECT 6322 6321 6327                                                           
+CONECT 6323 6294 6324                                                           
+CONECT 6324 6323 6325 6327                                                      
+CONECT 6325 6324 6326                                                           
+CONECT 6326 6325                                                                
+CONECT 6327 6322 6324 6328 6329                                                 
+CONECT 6328 6327                                                                
+CONECT 6329 6327 6330                                                           
+CONECT 6330 6329 6331                                                           
+CONECT 6331 6330 6332 6335                                                      
+CONECT 6332 6331 6333 6340                                                      
+CONECT 6333 6332 6334                                                           
+CONECT 6334 6333                                                                
+CONECT 6335 6331 6336                                                           
+CONECT 6336 6335 6337 6338                                                      
+CONECT 6337 6336                                                                
+CONECT 6338 6336 6339 6340                                                      
+CONECT 6339 6338                                                                
+CONECT 6340 6332 6338 6341                                                      
+CONECT 6341 6340 6342                                                           
+CONECT 6342 6341                                                                
+CONECT 6343 6344 6345 6346 6347                                                 
+CONECT 6344 6343                                                                
+CONECT 6345 6343                                                                
+CONECT 6346 6343                                                                
+CONECT 6347 6343                                                                
+CONECT 6348 6349 6350 6351 6352                                                 
+CONECT 6349 6348                                                                
+CONECT 6350 6348                                                                
+CONECT 6351 6348                                                                
+CONECT 6352 6348                                                                
+CONECT 6353 6354 6355 6356 6357                                                 
+CONECT 6354 6353                                                                
+CONECT 6355 6353                                                                
+CONECT 6356 6353                                                                
+CONECT 6357 6353                                                                
+CONECT 6358 6359 6360 6361 6362                                                 
+CONECT 6359 6358                                                                
+CONECT 6360 6358                                                                
+CONECT 6361 6358                                                                
+CONECT 6362 6358                                                                
+CONECT 6363 6364 6365                                                           
+CONECT 6364 6363                                                                
+CONECT 6365 6363 6366 6367                                                      
+CONECT 6366 6365                                                                
+CONECT 6367 6365 6368                                                           
+CONECT 6368 6367                                                                
+CONECT 6369 6370 6371                                                           
+CONECT 6370 6369                                                                
+CONECT 6371 6369 6372 6373                                                      
+CONECT 6372 6371                                                                
+CONECT 6373 6371 6374                                                           
+CONECT 6374 6373                                                                
+CONECT 6375 6379 6406                                                           
+CONECT 6376 6382 6389                                                           
+CONECT 6377 6392 6396                                                           
+CONECT 6378 6399 6403                                                           
+CONECT 6379 6375 6380 6413                                                      
+CONECT 6380 6379 6381 6384                                                      
+CONECT 6381 6380 6382 6383                                                      
+CONECT 6382 6376 6381 6413                                                      
+CONECT 6383 6381                                                                
+CONECT 6384 6380 6385                                                           
+CONECT 6385 6384 6386                                                           
+CONECT 6386 6385 6387 6388                                                      
+CONECT 6387 6386                                                                
+CONECT 6388 6386                                                                
+CONECT 6389 6376 6390 6414                                                      
+CONECT 6390 6389 6391 6393                                                      
+CONECT 6391 6390 6392 6394                                                      
+CONECT 6392 6377 6391 6414                                                      
+CONECT 6393 6390                                                                
+CONECT 6394 6391 6395                                                           
+CONECT 6395 6394                                                                
+CONECT 6396 6377 6397 6415                                                      
+CONECT 6397 6396 6398 6400                                                      
+CONECT 6398 6397 6399 6401                                                      
+CONECT 6399 6378 6398 6415                                                      
+CONECT 6400 6397                                                                
+CONECT 6401 6398 6402                                                           
+CONECT 6402 6401                                                                
+CONECT 6403 6378 6404 6416                                                      
+CONECT 6404 6403 6405 6407                                                      
+CONECT 6405 6404 6406 6408                                                      
+CONECT 6406 6375 6405 6416                                                      
+CONECT 6407 6404                                                                
+CONECT 6408 6405 6409                                                           
+CONECT 6409 6408 6410                                                           
+CONECT 6410 6409 6411 6412                                                      
+CONECT 6411 6410                                                                
+CONECT 6412 6410                                                                
+CONECT 6413 6379 6382 6417                                                      
+CONECT 6414 6389 6392 6417                                                      
+CONECT 6415 6396 6399 6417                                                      
+CONECT 6416 6403 6406 6417                                                      
+CONECT 6417 5800 6413 6414 6415                                                 
+CONECT 6417 6416 6990                                                           
+CONECT 6418 6419                                                                
+CONECT 6419 6418 6420 6448                                                      
+CONECT 6420 6419 6421                                                           
+CONECT 6421 6420 6422                                                           
+CONECT 6422 6421 6423 6424                                                      
+CONECT 6423 6422                                                                
+CONECT 6424 6422 6425 6437                                                      
+CONECT 6425 6424 6426                                                           
+CONECT 6426 6425 6427 6435                                                      
+CONECT 6427 6426 6428                                                           
+CONECT 6428 6427 6429 6430                                                      
+CONECT 6429 6428                                                                
+CONECT 6430 6428 6431                                                           
+CONECT 6431 6430 6432 6435                                                      
+CONECT 6432 6431 6433 6434                                                      
+CONECT 6433 6432                                                                
+CONECT 6434 6432                                                                
+CONECT 6435 6426 6431 6436                                                      
+CONECT 6436 6435                                                                
+CONECT 6437 6424 6438 6439                                                      
+CONECT 6438 6437                                                                
+CONECT 6439 6437 6440                                                           
+CONECT 6440 6439 6441 6442                                                      
+CONECT 6441 6440                                                                
+CONECT 6442 6440 6443 6444                                                      
+CONECT 6443 6442                                                                
+CONECT 6444 6442 6445                                                           
+CONECT 6445 6444 6446                                                           
+CONECT 6446 6445 6447                                                           
+CONECT 6447 6446 6452                                                           
+CONECT 6448 6419 6449                                                           
+CONECT 6449 6448 6450 6452                                                      
+CONECT 6450 6449 6451                                                           
+CONECT 6451 6450                                                                
+CONECT 6452 6447 6449 6453 6454                                                 
+CONECT 6453 6452                                                                
+CONECT 6454 6452 6455                                                           
+CONECT 6455 6454 6456                                                           
+CONECT 6456 6455 6457 6460                                                      
+CONECT 6457 6456 6458 6465                                                      
+CONECT 6458 6457 6459                                                           
+CONECT 6459 6458                                                                
+CONECT 6460 6456 6461                                                           
+CONECT 6461 6460 6462 6463                                                      
+CONECT 6462 6461                                                                
+CONECT 6463 6461 6464 6465                                                      
+CONECT 6464 6463                                                                
+CONECT 6465 6457 6463 6466                                                      
+CONECT 6466 6465 6467                                                           
+CONECT 6467 6466                                                                
+CONECT 6468 6469                                                                
+CONECT 6469 6468 6470 6498                                                      
+CONECT 6470 6469 6471                                                           
+CONECT 6471 6470 6472                                                           
+CONECT 6472 6471 6473 6474                                                      
+CONECT 6473 6472                                                                
+CONECT 6474 6472 6475 6487                                                      
+CONECT 6475 6474 6476                                                           
+CONECT 6476 6475 6477 6485                                                      
+CONECT 6477 6476 6478                                                           
+CONECT 6478 6477 6479 6480                                                      
+CONECT 6479 6478                                                                
+CONECT 6480 6478 6481                                                           
+CONECT 6481 6480 6482 6485                                                      
+CONECT 6482 6481 6483 6484                                                      
+CONECT 6483 6482                                                                
+CONECT 6484 6482                                                                
+CONECT 6485 6476 6481 6486                                                      
+CONECT 6486 6485                                                                
+CONECT 6487 6474 6488 6489                                                      
+CONECT 6488 6487                                                                
+CONECT 6489 6487 6490                                                           
+CONECT 6490 6489 6491 6492                                                      
+CONECT 6491 6490                                                                
+CONECT 6492 6490 6493 6494                                                      
+CONECT 6493 6492                                                                
+CONECT 6494 6492 6495                                                           
+CONECT 6495 6494 6496                                                           
+CONECT 6496 6495 6497                                                           
+CONECT 6497 6496 6502                                                           
+CONECT 6498 6469 6499                                                           
+CONECT 6499 6498 6500 6502                                                      
+CONECT 6500 6499 6501                                                           
+CONECT 6501 6500                                                                
+CONECT 6502 6497 6499 6503 6504                                                 
+CONECT 6503 6502                                                                
+CONECT 6504 6502 6505                                                           
+CONECT 6505 6504 6506                                                           
+CONECT 6506 6505 6507 6510                                                      
+CONECT 6507 6506 6508 6515                                                      
+CONECT 6508 6507 6509                                                           
+CONECT 6509 6508                                                                
+CONECT 6510 6506 6511                                                           
+CONECT 6511 6510 6512 6513                                                      
+CONECT 6512 6511                                                                
+CONECT 6513 6511 6514 6515                                                      
+CONECT 6514 6513                                                                
+CONECT 6515 6507 6513 6516                                                      
+CONECT 6516 6515 6517                                                           
+CONECT 6517 6516                                                                
+CONECT 6518 6519 6520 6521 6522                                                 
+CONECT 6519 6518                                                                
+CONECT 6520 6518                                                                
+CONECT 6521 6518                                                                
+CONECT 6522 6518                                                                
+CONECT 6523 6524 6525 6526 6527                                                 
+CONECT 6524 6523                                                                
+CONECT 6525 6523                                                                
+CONECT 6526 6523                                                                
+CONECT 6527 6523                                                                
+CONECT 6528 6529 6530 6531 6532                                                 
+CONECT 6529 6528                                                                
+CONECT 6530 6528                                                                
+CONECT 6531 6528                                                                
+CONECT 6532 6528                                                                
+CONECT 6533 6534 6535 6536 6537                                                 
+CONECT 6534 6533                                                                
+CONECT 6535 6533                                                                
+CONECT 6536 6533                                                                
+CONECT 6537 6533                                                                
+CONECT 6538 6539 6540                                                           
+CONECT 6539 6538                                                                
+CONECT 6540 6538 6541 6542                                                      
+CONECT 6541 6540                                                                
+CONECT 6542 6540 6543                                                           
+CONECT 6543 6542                                                                
+CONECT 6544 6545 6546                                                           
+CONECT 6545 6544                                                                
+CONECT 6546 6544 6547 6548                                                      
+CONECT 6547 6546                                                                
+CONECT 6548 6546 6549                                                           
+CONECT 6549 6548                                                                
+CONECT 6727 6242                                                                
+CONECT 6990 6417                                                                

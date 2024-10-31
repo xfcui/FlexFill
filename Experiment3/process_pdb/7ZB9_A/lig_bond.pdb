@@ -1,0 +1,212 @@
+HETATM 4267  CHAAHEM A 501      14.029  18.814  12.308  0.55  7.20           C  
+HETATM 4269  CHBAHEM A 501      14.952  17.177   7.854  0.55  5.91           C  
+HETATM 4271  CHCAHEM A 501      19.293  15.644   9.303  0.55  6.33           C  
+HETATM 4273  CHDAHEM A 501      18.167  16.887  13.800  0.55  7.20           C  
+HETATM 4275  C1AAHEM A 501      13.884  18.533  10.958  0.55  6.71           C  
+HETATM 4277  C2AAHEM A 501      12.735  18.793  10.108  0.55  7.02           C  
+HETATM 4279  C3AAHEM A 501      13.007  18.330   8.878  0.55  6.55           C  
+HETATM 4281  C4AAHEM A 501      14.328  17.766   8.920  0.55  5.84           C  
+HETATM 4283  CMAAHEM A 501      12.116  18.339   7.645  0.55  7.89           C  
+HETATM 4285  CAAAHEM A 501      11.446  19.480  10.572  0.55  7.98           C  
+HETATM 4287  CBAAHEM A 501      11.550  20.986  10.332  0.55  8.00           C  
+HETATM 4289  CGAAHEM A 501      10.280  21.765  10.665  0.55  8.51           C  
+HETATM 4291  O1AAHEM A 501       9.383  21.258  11.381  0.55  9.04           O  
+HETATM 4293  O2AAHEM A 501      10.181  22.948  10.233  0.55  8.52           O  
+HETATM 4295  C1BAHEM A 501      16.215  16.624   7.872  0.55  5.76           C  
+HETATM 4297  C2BAHEM A 501      16.883  16.098   6.708  0.55  6.31           C  
+HETATM 4299  C3BAHEM A 501      18.088  15.673   7.110  0.55  6.74           C  
+HETATM 4301  C4BAHEM A 501      18.194  15.914   8.521  0.55  6.58           C  
+HETATM 4303  CMBAHEM A 501      16.273  16.067   5.293  0.55  6.51           C  
+HETATM 4305  CABAHEM A 501      19.242  15.047   6.350  0.55  6.90           C  
+HETATM 4307  CBBAHEM A 501      19.462  15.226   5.050  0.55  6.27           C  
+HETATM 4309  C1CAHEM A 501      19.376  15.895  10.653  0.55  6.49           C  
+HETATM 4311  C2CAHEM A 501      20.561  15.697  11.437  0.55  6.60           C  
+HETATM 4313  C3CAHEM A 501      20.247  16.005  12.695  0.55  7.19           C  
+HETATM 4315  C4CAHEM A 501      18.866  16.441  12.715  0.55  6.94           C  
+HETATM 4317  CMCAHEM A 501      21.915  15.210  10.888  0.55  6.15           C  
+HETATM 4319  CACAHEM A 501      21.231  15.980  13.871  0.55  8.21           C  
+HETATM 4321  CBCAHEM A 501      20.919  15.441  15.035  0.55  8.81           C  
+HETATM 4323  C1DAHEM A 501      16.948  17.492  13.775  0.55  7.03           C  
+HETATM 4325  C2DAHEM A 501      16.287  17.983  14.951  0.55  7.61           C  
+HETATM 4327  C3DAHEM A 501      15.119  18.515  14.560  0.55  7.49           C  
+HETATM 4329  C4DAHEM A 501      15.052  18.387  13.118  0.55  7.68           C  
+HETATM 4331  CMDAHEM A 501      16.844  17.835  16.378  0.55  7.91           C  
+HETATM 4333  CADAHEM A 501      14.036  19.192  15.436  0.55  7.97           C  
+HETATM 4335  CBDAHEM A 501      14.365  20.680  15.560  0.55  7.30           C  
+HETATM 4337  CGDAHEM A 501      13.380  21.471  16.384  0.55  7.98           C  
+HETATM 4339  O1DAHEM A 501      12.305  20.936  16.766  0.55  8.03           O  
+HETATM 4341  O2DAHEM A 501      13.657  22.674  16.630  0.55  8.99           O  
+HETATM 4343  NA AHEM A 501      14.841  17.905  10.193  0.55  6.53           N  
+HETATM 4345  NB AHEM A 501      17.033  16.486   8.972  0.55  6.28           N  
+HETATM 4347  NC AHEM A 501      18.353  16.353  11.449  0.55  6.48           N  
+HETATM 4349  ND AHEM A 501      16.183  17.751  12.648  0.55  7.15           N  
+HETATM 4351 FE  AHEM A 501      16.613  17.181  10.826  0.55  6.16          FE  
+CONECT 3774 4351 4352                                                           
+CONECT 4267 4275 4329                                                           
+CONECT 4268 4276 4330                                                           
+CONECT 4269 4281 4295                                                           
+CONECT 4270 4282 4296                                                           
+CONECT 4271 4301 4309                                                           
+CONECT 4272 4302 4310                                                           
+CONECT 4273 4315 4323                                                           
+CONECT 4274 4316 4324                                                           
+CONECT 4275 4267 4277 4343                                                      
+CONECT 4276 4268 4278 4344                                                      
+CONECT 4277 4275 4279 4285                                                      
+CONECT 4278 4276 4280 4286                                                      
+CONECT 4279 4277 4281 4283                                                      
+CONECT 4280 4278 4282 4284                                                      
+CONECT 4281 4269 4279 4343                                                      
+CONECT 4282 4270 4280 4344                                                      
+CONECT 4283 4279                                                                
+CONECT 4284 4280                                                                
+CONECT 4285 4277 4287                                                           
+CONECT 4286 4278 4288                                                           
+CONECT 4287 4285 4289                                                           
+CONECT 4288 4286 4290                                                           
+CONECT 4289 4287 4291 4293                                                      
+CONECT 4290 4288 4292 4294                                                      
+CONECT 4291 4289                                                                
+CONECT 4292 4290                                                                
+CONECT 4293 4289                                                                
+CONECT 4294 4290                                                                
+CONECT 4295 4269 4297 4345                                                      
+CONECT 4296 4270 4298 4346                                                      
+CONECT 4297 4295 4299 4303                                                      
+CONECT 4298 4296 4300 4304                                                      
+CONECT 4299 4297 4301 4305                                                      
+CONECT 4300 4298 4302 4306                                                      
+CONECT 4301 4271 4299 4345                                                      
+CONECT 4302 4272 4300 4346                                                      
+CONECT 4303 4297                                                                
+CONECT 4304 4298                                                                
+CONECT 4305 4299 4307                                                           
+CONECT 4306 4300 4308                                                           
+CONECT 4307 4305                                                                
+CONECT 4308 4306                                                                
+CONECT 4309 4271 4311 4347                                                      
+CONECT 4310 4272 4312 4348                                                      
+CONECT 4311 4309 4313 4317                                                      
+CONECT 4312 4310 4314 4318                                                      
+CONECT 4313 4311 4315 4319                                                      
+CONECT 4314 4312 4316 4320                                                      
+CONECT 4315 4273 4313 4347                                                      
+CONECT 4316 4274 4314 4348                                                      
+CONECT 4317 4311                                                                
+CONECT 4318 4312                                                                
+CONECT 4319 4313 4321                                                           
+CONECT 4320 4314 4322                                                           
+CONECT 4321 4319                                                                
+CONECT 4322 4320                                                                
+CONECT 4323 4273 4325 4349                                                      
+CONECT 4324 4274 4326 4350                                                      
+CONECT 4325 4323 4327 4331                                                      
+CONECT 4326 4324 4328 4332                                                      
+CONECT 4327 4325 4329 4333                                                      
+CONECT 4328 4326 4330 4334                                                      
+CONECT 4329 4267 4327 4349                                                      
+CONECT 4330 4268 4328 4350                                                      
+CONECT 4331 4325                                                                
+CONECT 4332 4326                                                                
+CONECT 4333 4327 4335                                                           
+CONECT 4334 4328 4336                                                           
+CONECT 4335 4333 4337                                                           
+CONECT 4336 4334 4338                                                           
+CONECT 4337 4335 4339 4341                                                      
+CONECT 4338 4336 4340 4342                                                      
+CONECT 4339 4337                                                                
+CONECT 4340 4338                                                                
+CONECT 4341 4337                                                                
+CONECT 4342 4338                                                                
+CONECT 4343 4275 4281 4351                                                      
+CONECT 4344 4276 4282 4352                                                      
+CONECT 4345 4295 4301 4351                                                      
+CONECT 4346 4296 4302 4352                                                      
+CONECT 4347 4309 4315 4351                                                      
+CONECT 4348 4310 4316 4352                                                      
+CONECT 4349 4323 4329 4351                                                      
+CONECT 4350 4324 4330 4352                                                      
+CONECT 4351 3774 4343 4345 4347                                                 
+CONECT 4351 4349 4377                                                           
+CONECT 4352 3774 4344 4346 4348                                                 
+CONECT 4352 4350 4378                                                           
+CONECT 4353 4392 4398                                                           
+CONECT 4354 4393 4399                                                           
+CONECT 4355 4394 4400                                                           
+CONECT 4356 4359 4395 4398                                                      
+CONECT 4357 4360 4396 4399                                                      
+CONECT 4358 4361 4397 4400                                                      
+CONECT 4359 4356 4362                                                           
+CONECT 4360 4357 4363                                                           
+CONECT 4361 4358 4364                                                           
+CONECT 4362 4359 4365                                                           
+CONECT 4363 4360 4366                                                           
+CONECT 4364 4361 4367                                                           
+CONECT 4365 4362 4371                                                           
+CONECT 4366 4363 4372                                                           
+CONECT 4367 4364 4373                                                           
+CONECT 4368 4377 4380                                                           
+CONECT 4369 4378 4381                                                           
+CONECT 4370 4379 4382                                                           
+CONECT 4371 4365 4374                                                           
+CONECT 4372 4366 4375                                                           
+CONECT 4373 4367 4376                                                           
+CONECT 4374 4371 4386                                                           
+CONECT 4375 4372 4387                                                           
+CONECT 4376 4373 4388                                                           
+CONECT 4377 4351 4368 4389                                                      
+CONECT 4378 4352 4369 4390                                                      
+CONECT 4379 4370 4391                                                           
+CONECT 4380 4368 4383                                                           
+CONECT 4381 4369 4384                                                           
+CONECT 4382 4370 4385                                                           
+CONECT 4383 4380 4386 4389                                                      
+CONECT 4384 4381 4387 4390                                                      
+CONECT 4385 4382 4388 4391                                                      
+CONECT 4386 4374 4383                                                           
+CONECT 4387 4375 4384                                                           
+CONECT 4388 4376 4385                                                           
+CONECT 4389 4377 4383                                                           
+CONECT 4390 4378 4384                                                           
+CONECT 4391 4379 4385                                                           
+CONECT 4392 4353                                                                
+CONECT 4393 4354                                                                
+CONECT 4394 4355                                                                
+CONECT 4395 4356                                                                
+CONECT 4396 4357                                                                
+CONECT 4397 4358                                                                
+CONECT 4398 4353 4356                                                           
+CONECT 4399 4354 4357                                                           
+CONECT 4400 4355 4358                                                           
+CONECT 4401 4402                                                                
+CONECT 4402 4401 4403                                                           
+CONECT 4403 4402 4407                                                           
+CONECT 4404 4405                                                                
+CONECT 4405 4404 4406                                                           
+CONECT 4406 4405 4407                                                           
+CONECT 4407 4403 4406                                                           
+CONECT 4408 4410                                                                
+CONECT 4409 4411                                                                
+CONECT 4410 4408 4412                                                           
+CONECT 4411 4409 4413                                                           
+CONECT 4412 4410 4414                                                           
+CONECT 4413 4411 4415                                                           
+CONECT 4414 4412                                                                
+CONECT 4415 4413                                                                
+CONECT 4416 4669 4737 5119 5171                                                 
+CONECT 4416 5421 5465                                                           
+CONECT 4417 4422 4514 4520 5176                                                 
+CONECT 4417 5207 5288 5481                                                      
+CONECT 4422 4417                                                                
+CONECT 4514 4417                                                                
+CONECT 4520 4417                                                                
+CONECT 4669 4416                                                                
+CONECT 4737 4416                                                                
+CONECT 5119 4416                                                                
+CONECT 5171 4416                                                                
+CONECT 5176 4417                                                                
+CONECT 5207 4417                                                                
+CONECT 5288 4417                                                                
+CONECT 5421 4416                                                                
+CONECT 5465 4416                                                                
+CONECT 5481 4417                                                                

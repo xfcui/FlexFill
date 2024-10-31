@@ -1,0 +1,1 @@
+./templete/6MCW_A/rec.pdb

@@ -1,0 +1,72 @@
+easy-search ./alfpdb/alf100/apdb.pdb ./1000db aln tmpFolder --alignment-type 1 --format-output query,target,alntmscore,qtmscore,ttmscore 
+
+MMseqs Version:              	eec10926e924ac59af9e77882c2454a5e3ed30da
+Seq. id. threshold           	0
+Coverage threshold           	0
+Coverage mode                	0
+Max reject                   	2147483647
+Max accept                   	2147483647
+Add backtrace                	false
+TMscore threshold            	0
+TMalign hit order            	0
+TMalign fast                 	1
+Preload mode                 	0
+Threads                      	64
+Verbosity                    	3
+LDDT threshold               	0
+Sort by structure bit score  	1
+Alignment type               	1
+Exact TMscore                	0
+Substitution matrix          	aa:3di.out,nucl:3di.out
+Alignment mode               	3
+Alignment mode               	0
+E-value threshold            	10
+Min alignment length         	0
+Seq. id. mode                	0
+Alternative alignments       	0
+Max sequence length          	65535
+Compositional bias           	1
+Compositional bias           	1
+Gap open cost                	aa:10,nucl:10
+Gap extension cost           	aa:1,nucl:1
+Compressed                   	0
+Seed substitution matrix     	aa:3di.out,nucl:3di.out
+Sensitivity                  	9.5
+k-mer length                 	6
+Target search mode           	0
+k-score                      	seq:2147483647,prof:2147483647
+Max results per query        	1000
+Split database               	0
+Split mode                   	2
+Split memory limit           	0
+Diagonal scoring             	true
+Exact k-mer matching         	0
+Mask residues                	0
+Mask residues probability    	0.99995
+Mask lower case residues     	1
+Minimum diagonal score       	30
+Selected taxa                	
+Spaced k-mers                	1
+Spaced k-mer pattern         	
+Local temporary path         	
+Exhaustive search mode       	false
+Prefilter mode               	0
+Search iterations            	1
+Remove temporary files       	true
+MPI runner                   	
+Force restart with latest tmp	false
+Cluster search               	0
+Path to ProstT5              	
+Chain name mode              	0
+Write mapping file           	0
+Mask b-factor threshold      	0
+Coord store mode             	2
+Write lookup file            	1
+Input format                 	0
+File Inclusion Regex         	.*
+File Exclusion Regex         	^$
+Alignment format             	0
+Format alignment output      	query,target,alntmscore,qtmscore,ttmscore
+Database output              	false
+Greedy best hits             	false
+

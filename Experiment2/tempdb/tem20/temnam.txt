@@ -1,0 +1,1 @@
+./templete/3MVR_A/rec.pdb

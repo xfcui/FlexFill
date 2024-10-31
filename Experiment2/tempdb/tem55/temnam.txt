@@ -1,0 +1,1 @@
+./templete/3FWF_A/rec.pdb

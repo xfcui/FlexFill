@@ -43,7 +43,7 @@ We will store the results after running in PDB format in the folder specified by
 ### Command
 You can run FlexFill using the command below, where the first parameter is the folder containing the input PDB files, and the second parameter is the folder for storing the results.
 ```
-cd main
+cd Main
 python FlexFill.py ./inputpdb ./outputpdb
 ```
 

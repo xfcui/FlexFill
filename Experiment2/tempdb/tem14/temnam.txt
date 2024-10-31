@@ -1,0 +1,1 @@
+./templete/4MM0_A/rec.pdb

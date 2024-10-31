@@ -1,0 +1,1 @@
+./templete/3WEC_A/rec.pdb

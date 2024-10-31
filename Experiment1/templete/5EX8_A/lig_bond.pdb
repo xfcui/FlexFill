@@ -1,0 +1,152 @@
+HETATM 3317  CHA HEM A 401      53.372  -8.381   5.727  1.00 19.77           C  
+HETATM 3318  CHB HEM A 401      54.172 -13.193   5.881  1.00 20.86           C  
+HETATM 3319  CHC HEM A 401      58.697 -12.600   4.284  1.00 20.87           C  
+HETATM 3320  CHD HEM A 401      57.984  -7.774   4.219  1.00 20.53           C  
+HETATM 3321  C1A HEM A 401      53.174  -9.744   5.849  1.00 21.93           C  
+HETATM 3322  C2A HEM A 401      51.904 -10.407   6.105  1.00 21.55           C  
+HETATM 3323  C3A HEM A 401      52.129 -11.731   6.150  1.00 22.38           C  
+HETATM 3324  C4A HEM A 401      53.548 -11.957   5.920  1.00 20.76           C  
+HETATM 3325  CMA HEM A 401      51.071 -12.835   6.392  1.00 20.44           C  
+HETATM 3326  CAA HEM A 401      50.551  -9.695   6.305  1.00 20.41           C  
+HETATM 3327  CBA HEM A 401      50.425  -9.350   7.797  1.00 20.88           C  
+HETATM 3328  CGA HEM A 401      49.163  -8.569   8.093  1.00 21.61           C  
+HETATM 3329  O1A HEM A 401      48.561  -7.970   7.166  1.00 23.92           O  
+HETATM 3330  O2A HEM A 401      48.732  -8.536   9.269  1.00 22.74           O  
+HETATM 3331  C1B HEM A 401      55.463 -13.490   5.500  1.00 20.07           C  
+HETATM 3332  C2B HEM A 401      56.097 -14.805   5.478  1.00 21.16           C  
+HETATM 3333  C3B HEM A 401      57.355 -14.623   5.034  1.00 21.70           C  
+HETATM 3334  C4B HEM A 401      57.554 -13.204   4.770  1.00 21.44           C  
+HETATM 3335  CMB HEM A 401      55.434 -16.157   5.893  1.00 20.32           C  
+HETATM 3336  CAB HEM A 401      58.462 -15.678   4.841  1.00 22.89           C  
+HETATM 3337  CBB HEM A 401      58.211 -16.891   4.339  1.00 27.09           C  
+HETATM 3338  C1C HEM A 401      58.880 -11.239   4.084  1.00 21.17           C  
+HETATM 3339  C2C HEM A 401      60.073 -10.616   3.538  1.00 21.26           C  
+HETATM 3340  C3C HEM A 401      59.860  -9.292   3.522  1.00 21.58           C  
+HETATM 3341  C4C HEM A 401      58.545  -9.024   4.063  1.00 21.28           C  
+HETATM 3342  CMC HEM A 401      61.331 -11.374   3.037  1.00 18.18           C  
+HETATM 3343  CAC HEM A 401      60.832  -8.213   3.014  1.00 22.78           C  
+HETATM 3344  CBC HEM A 401      61.913  -7.930   3.726  1.00 25.79           C  
+HETATM 3345  C1D HEM A 401      56.702  -7.464   4.620  1.00 21.87           C  
+HETATM 3346  C2D HEM A 401      56.155  -6.127   4.728  1.00 22.11           C  
+HETATM 3347  C3D HEM A 401      54.717  -6.319   5.199  1.00 21.15           C  
+HETATM 3348  C4D HEM A 401      54.529  -7.752   5.323  1.00 21.24           C  
+HETATM 3349  CMD HEM A 401      56.853  -4.785   4.436  1.00 21.50           C  
+HETATM 3350  CAD HEM A 401      53.687  -5.211   5.475  1.00 21.31           C  
+HETATM 3351  CBD HEM A 401      52.938  -4.903   4.181  1.00 20.94           C  
+HETATM 3352  CGD HEM A 401      51.997  -3.741   4.393  1.00 21.07           C  
+HETATM 3353  O1D HEM A 401      51.233  -3.433   3.458  1.00 22.36           O  
+HETATM 3354  O2D HEM A 401      51.988  -3.126   5.490  1.00 21.34           O  
+HETATM 3355  NA  HEM A 401      54.144 -10.720   5.739  1.00 20.69           N  
+HETATM 3356  NB  HEM A 401      56.384 -12.557   5.076  1.00 19.97           N  
+HETATM 3357  NC  HEM A 401      57.976 -10.235   4.395  1.00 20.17           N  
+HETATM 3358  ND  HEM A 401      55.718  -8.373   4.988  1.00 20.95           N  
+HETATM 3359 FE   HEM A 401      56.067 -10.456   5.085  1.00 21.24          FE  
+CONECT 2918 3359                                                                
+CONECT 3317 3321 3348                                                           
+CONECT 3318 3324 3331                                                           
+CONECT 3319 3334 3338                                                           
+CONECT 3320 3341 3345                                                           
+CONECT 3321 3317 3322 3355                                                      
+CONECT 3322 3321 3323 3326                                                      
+CONECT 3323 3322 3324 3325                                                      
+CONECT 3324 3318 3323 3355                                                      
+CONECT 3325 3323                                                                
+CONECT 3326 3322 3327                                                           
+CONECT 3327 3326 3328                                                           
+CONECT 3328 3327 3329 3330                                                      
+CONECT 3329 3328                                                                
+CONECT 3330 3328                                                                
+CONECT 3331 3318 3332 3356                                                      
+CONECT 3332 3331 3333 3335                                                      
+CONECT 3333 3332 3334 3336                                                      
+CONECT 3334 3319 3333 3356                                                      
+CONECT 3335 3332                                                                
+CONECT 3336 3333 3337                                                           
+CONECT 3337 3336                                                                
+CONECT 3338 3319 3339 3357                                                      
+CONECT 3339 3338 3340 3342                                                      
+CONECT 3340 3339 3341 3343                                                      
+CONECT 3341 3320 3340 3357                                                      
+CONECT 3342 3339                                                                
+CONECT 3343 3340 3344                                                           
+CONECT 3344 3343                                                                
+CONECT 3345 3320 3346 3358                                                      
+CONECT 3346 3345 3347 3349                                                      
+CONECT 3347 3346 3348 3350                                                      
+CONECT 3348 3317 3347 3358                                                      
+CONECT 3349 3346                                                                
+CONECT 3350 3347 3351                                                           
+CONECT 3351 3350 3352                                                           
+CONECT 3352 3351 3353 3354                                                      
+CONECT 3353 3352                                                                
+CONECT 3354 3352                                                                
+CONECT 3355 3321 3324 3359                                                      
+CONECT 3356 3331 3334 3359                                                      
+CONECT 3357 3338 3341 3359                                                      
+CONECT 3358 3345 3348 3359                                                      
+CONECT 3359 2918 3355 3356 3357                                                 
+CONECT 3359 3358 3361                                                           
+CONECT 3360 3361 3362                                                           
+CONECT 3361 3359 3360                                                           
+CONECT 3362 3360 3363                                                           
+CONECT 3363 3362                                                                
+CONECT 3364 3365 3366                                                           
+CONECT 3365 3364                                                                
+CONECT 3366 3364 3367                                                           
+CONECT 3367 3366                                                                
+CONECT 3368 3369 3370                                                           
+CONECT 3369 3368                                                                
+CONECT 3370 3368 3371                                                           
+CONECT 3371 3370                                                                
+CONECT 3372 3373 3374                                                           
+CONECT 3373 3372                                                                
+CONECT 3374 3372 3375                                                           
+CONECT 3375 3374                                                                
+CONECT 3376 3377 3378                                                           
+CONECT 3377 3376                                                                
+CONECT 3378 3376 3379                                                           
+CONECT 3379 3378                                                                
+CONECT 3380 3381 3382                                                           
+CONECT 3381 3380                                                                
+CONECT 3382 3380 3383                                                           
+CONECT 3383 3382                                                                
+CONECT 3384 3385 3386                                                           
+CONECT 3385 3384                                                                
+CONECT 3386 3384 3387                                                           
+CONECT 3387 3386                                                                
+CONECT 3388 3389 3390                                                           
+CONECT 3389 3388                                                                
+CONECT 3390 3388 3391                                                           
+CONECT 3391 3390                                                                
+CONECT 3392 3393 3394                                                           
+CONECT 3393 3392                                                                
+CONECT 3394 3392 3395                                                           
+CONECT 3395 3394                                                                
+CONECT 3396 3397 3398                                                           
+CONECT 3397 3396                                                                
+CONECT 3398 3396 3399                                                           
+CONECT 3399 3398                                                                
+CONECT 3400 3401 3402                                                           
+CONECT 3401 3400                                                                
+CONECT 3402 3400 3403                                                           
+CONECT 3403 3402                                                                
+CONECT 3404 3405 3406                                                           
+CONECT 3405 3404                                                                
+CONECT 3406 3404 3407                                                           
+CONECT 3407 3406                                                                
+CONECT 3408 3409 3410                                                           
+CONECT 3409 3408                                                                
+CONECT 3410 3408 3411                                                           
+CONECT 3411 3410                                                                
+CONECT 3412 3413 3414                                                           
+CONECT 3413 3412                                                                
+CONECT 3414 3412 3415                                                           
+CONECT 3415 3414                                                                
+CONECT 3416 3417 3418                                                           
+CONECT 3417 3416                                                                
+CONECT 3418 3416 3419                                                           
+CONECT 3419 3418                                                                
+CONECT 3420 3421 3422                                                           
+CONECT 3421 3420                                                                
+CONECT 3422 3420 3423                                                           
+CONECT 3423 3422                                                                

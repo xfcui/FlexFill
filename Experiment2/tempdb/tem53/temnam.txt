@@ -1,0 +1,1 @@
+./templete/2CPP_A/rec.pdb

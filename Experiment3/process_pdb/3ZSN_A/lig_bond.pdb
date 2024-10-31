@@ -1,0 +1,405 @@
+HETATM 9390  CHA HEM A 450     -11.036  -7.553  60.824  1.00 10.86           C  
+HETATM 9391  CHB HEM A 450      -6.506  -5.808  60.526  1.00 10.88           C  
+HETATM 9392  CHC HEM A 450      -6.346  -7.229  55.948  1.00 11.25           C  
+HETATM 9393  CHD HEM A 450     -10.861  -8.995  56.247  1.00 13.03           C  
+HETATM 9394  C1A HEM A 450      -9.803  -7.007  61.127  1.00 13.86           C  
+HETATM 9395  C2A HEM A 450      -9.405  -6.524  62.442  1.00 10.71           C  
+HETATM 9396  C3A HEM A 450      -8.150  -6.081  62.358  1.00  9.67           C  
+HETATM 9397  C4A HEM A 450      -7.752  -6.199  60.974  1.00 11.78           C  
+HETATM 9398  CMA HEM A 450      -7.295  -5.423  63.505  1.00  9.95           C  
+HETATM 9399  CAA HEM A 450     -10.258  -6.533  63.730  1.00 10.08           C  
+HETATM 9400  CBA HEM A 450     -10.945  -5.161  63.893  1.00 12.68           C  
+HETATM 9401  CGA HEM A 450     -11.694  -4.951  65.182  1.00 15.28           C  
+HETATM 9402  O1A HEM A 450     -11.760  -5.896  66.009  1.00 14.60           O  
+HETATM 9403  O2A HEM A 450     -12.256  -3.819  65.376  1.00 14.51           O  
+HETATM 9404  C1B HEM A 450      -6.077  -5.980  59.248  1.00 11.59           C  
+HETATM 9405  C2B HEM A 450      -4.806  -5.537  58.697  1.00 11.30           C  
+HETATM 9406  C3B HEM A 450      -4.817  -5.931  57.425  1.00 12.75           C  
+HETATM 9407  C4B HEM A 450      -6.034  -6.643  57.151  1.00  9.05           C  
+HETATM 9408  CMB HEM A 450      -3.679  -4.768  59.443  1.00  7.46           C  
+HETATM 9409  CAB HEM A 450      -3.751  -5.760  56.322  1.00 15.13           C  
+HETATM 9410  CBB HEM A 450      -2.457  -5.649  56.582  1.00 17.10           C  
+HETATM 9411  C1C HEM A 450      -7.515  -7.920  55.647  1.00 12.51           C  
+HETATM 9412  C2C HEM A 450      -7.805  -8.652  54.427  1.00 11.97           C  
+HETATM 9413  C3C HEM A 450      -9.086  -9.099  54.532  1.00 14.12           C  
+HETATM 9414  C4C HEM A 450      -9.596  -8.692  55.807  1.00 13.88           C  
+HETATM 9415  CMC HEM A 450      -6.820  -8.819  53.248  1.00 12.42           C  
+HETATM 9416  CAC HEM A 450      -9.973  -9.945  53.587  1.00 17.73           C  
+HETATM 9417  CBC HEM A 450      -9.490 -10.403  52.416  1.00 20.79           C  
+HETATM 9418  C1D HEM A 450     -11.399  -8.732  57.467  1.00 12.03           C  
+HETATM 9419  C2D HEM A 450     -12.796  -8.910  57.839  1.00 14.43           C  
+HETATM 9420  C3D HEM A 450     -12.814  -8.474  59.287  1.00 11.79           C  
+HETATM 9421  C4D HEM A 450     -11.468  -8.028  59.603  1.00 11.66           C  
+HETATM 9422  CMD HEM A 450     -13.897  -9.519  56.956  1.00 13.06           C  
+HETATM 9423  CAD HEM A 450     -13.945  -8.417  60.280  1.00 13.76           C  
+HETATM 9424  CBD HEM A 450     -13.981  -9.788  60.904  1.00 13.71           C  
+HETATM 9425  CGD HEM A 450     -15.137  -9.915  61.879  1.00 12.74           C  
+HETATM 9426  O1D HEM A 450     -15.672  -8.902  62.379  1.00 13.53           O  
+HETATM 9427  O2D HEM A 450     -15.549 -11.062  62.194  1.00 14.33           O  
+HETATM 9428  NA  HEM A 450      -8.729  -6.863  60.268  1.00 10.14           N  
+HETATM 9429  NB  HEM A 450      -6.802  -6.652  58.298  1.00 12.54           N  
+HETATM 9430  NC  HEM A 450      -8.612  -7.978  56.478  1.00 10.15           N  
+HETATM 9431  ND  HEM A 450     -10.686  -8.202  58.507  1.00 11.45           N  
+HETATM 9432 FE   HEM A 450      -8.666  -7.487  58.400  1.00 14.83          FE  
+CONECT 2712 9432                                                                
+CONECT 5837 9551                                                                
+CONECT 8979 9673                                                                
+CONECT 9390 9394 9421                                                           
+CONECT 9391 9397 9404                                                           
+CONECT 9392 9407 9411                                                           
+CONECT 9393 9414 9418                                                           
+CONECT 9394 9390 9395 9428                                                      
+CONECT 9395 9394 9396 9399                                                      
+CONECT 9396 9395 9397 9398                                                      
+CONECT 9397 9391 9396 9428                                                      
+CONECT 9398 9396                                                                
+CONECT 9399 9395 9400                                                           
+CONECT 9400 9399 9401                                                           
+CONECT 9401 9400 9402 9403                                                      
+CONECT 9402 9401                                                                
+CONECT 9403 9401                                                                
+CONECT 9404 9391 9405 9429                                                      
+CONECT 9405 9404 9406 9408                                                      
+CONECT 9406 9405 9407 9409                                                      
+CONECT 9407 9392 9406 9429                                                      
+CONECT 9408 9405                                                                
+CONECT 9409 9406 9410                                                           
+CONECT 9410 9409                                                                
+CONECT 9411 9392 9412 9430                                                      
+CONECT 9412 9411 9413 9415                                                      
+CONECT 9413 9412 9414 9416                                                      
+CONECT 9414 9393 9413 9430                                                      
+CONECT 9415 9412                                                                
+CONECT 9416 9413 9417                                                           
+CONECT 9417 9416                                                                
+CONECT 9418 9393 9419 9431                                                      
+CONECT 9419 9418 9420 9422                                                      
+CONECT 9420 9419 9421 9423                                                      
+CONECT 9421 9390 9420 9431                                                      
+CONECT 9422 9419                                                                
+CONECT 9423 9420 9424                                                           
+CONECT 9424 9423 9425                                                           
+CONECT 9425 9424 9426 9427                                                      
+CONECT 9426 9425                                                                
+CONECT 9427 9425                                                                
+CONECT 9428 9394 9397 9432                                                      
+CONECT 9429 9404 9407 9432                                                      
+CONECT 9430 9411 9414 9432                                                      
+CONECT 9431 9418 9421 9432                                                      
+CONECT 9432 2712 9428 9429 9430                                                 
+CONECT 9432 9431 9964                                                           
+CONECT 9433 9434                                                                
+CONECT 9434 9433 9435 9463                                                      
+CONECT 9435 9434 9436                                                           
+CONECT 9436 9435 9437                                                           
+CONECT 9437 9436 9438 9439                                                      
+CONECT 9438 9437                                                                
+CONECT 9439 9437 9440 9452                                                      
+CONECT 9440 9439 9441                                                           
+CONECT 9441 9440 9442 9450                                                      
+CONECT 9442 9441 9443                                                           
+CONECT 9443 9442 9444 9445                                                      
+CONECT 9444 9443                                                                
+CONECT 9445 9443 9446                                                           
+CONECT 9446 9445 9447 9450                                                      
+CONECT 9447 9446 9448 9449                                                      
+CONECT 9448 9447                                                                
+CONECT 9449 9447                                                                
+CONECT 9450 9441 9446 9451                                                      
+CONECT 9451 9450                                                                
+CONECT 9452 9439 9453 9454                                                      
+CONECT 9453 9452                                                                
+CONECT 9454 9452 9455                                                           
+CONECT 9455 9454 9456 9457                                                      
+CONECT 9456 9455                                                                
+CONECT 9457 9455 9458 9459                                                      
+CONECT 9458 9457                                                                
+CONECT 9459 9457 9460                                                           
+CONECT 9460 9459 9461                                                           
+CONECT 9461 9460 9462                                                           
+CONECT 9462 9461 9467                                                           
+CONECT 9463 9434 9464                                                           
+CONECT 9464 9463 9465 9467                                                      
+CONECT 9465 9464 9466                                                           
+CONECT 9466 9465                                                                
+CONECT 9467 9462 9464 9468                                                      
+CONECT 9468 9467 9469                                                           
+CONECT 9469 9468 9470                                                           
+CONECT 9470 9469 9471 9479                                                      
+CONECT 9471 9470 9472                                                           
+CONECT 9472 9471 9473 9474                                                      
+CONECT 9473 9472                                                                
+CONECT 9474 9472 9475 9476                                                      
+CONECT 9475 9474                                                                
+CONECT 9476 9474 9477 9479                                                      
+CONECT 9477 9476 9478                                                           
+CONECT 9478 9477                                                                
+CONECT 9479 9470 9476 9480                                                      
+CONECT 9480 9479 9481                                                           
+CONECT 9481 9480                                                                
+CONECT 9482 9483 9487 9488                                                      
+CONECT 9483 9482 9484                                                           
+CONECT 9484 9483 9485                                                           
+CONECT 9485 9484 9486                                                           
+CONECT 9486 9485 9487                                                           
+CONECT 9487 9482 9486                                                           
+CONECT 9488 9482 9489 9490                                                      
+CONECT 9489 9488                                                                
+CONECT 9490 9488                                                                
+CONECT 9491 9492 9493                                                           
+CONECT 9492 9491                                                                
+CONECT 9493 9491 9494 9495                                                      
+CONECT 9494 9493                                                                
+CONECT 9495 9493 9496                                                           
+CONECT 9496 9495                                                                
+CONECT 9497 9498 9499                                                           
+CONECT 9498 9497                                                                
+CONECT 9499 9497 9500 9501                                                      
+CONECT 9500 9499                                                                
+CONECT 9501 9499 9502                                                           
+CONECT 9502 9501                                                                
+CONECT 9503 9504 9505                                                           
+CONECT 9504 9503                                                                
+CONECT 9505 9503 9506 9507                                                      
+CONECT 9506 9505                                                                
+CONECT 9507 9505 9508                                                           
+CONECT 9508 9507                                                                
+CONECT 9509 9513 9540                                                           
+CONECT 9510 9516 9523                                                           
+CONECT 9511 9526 9530                                                           
+CONECT 9512 9533 9537                                                           
+CONECT 9513 9509 9514 9547                                                      
+CONECT 9514 9513 9515 9518                                                      
+CONECT 9515 9514 9516 9517                                                      
+CONECT 9516 9510 9515 9547                                                      
+CONECT 9517 9515                                                                
+CONECT 9518 9514 9519                                                           
+CONECT 9519 9518 9520                                                           
+CONECT 9520 9519 9521 9522                                                      
+CONECT 9521 9520                                                                
+CONECT 9522 9520                                                                
+CONECT 9523 9510 9524 9548                                                      
+CONECT 9524 9523 9525 9527                                                      
+CONECT 9525 9524 9526 9528                                                      
+CONECT 9526 9511 9525 9548                                                      
+CONECT 9527 9524                                                                
+CONECT 9528 9525 9529                                                           
+CONECT 9529 9528                                                                
+CONECT 9530 9511 9531 9549                                                      
+CONECT 9531 9530 9532 9534                                                      
+CONECT 9532 9531 9533 9535                                                      
+CONECT 9533 9512 9532 9549                                                      
+CONECT 9534 9531                                                                
+CONECT 9535 9532 9536                                                           
+CONECT 9536 9535                                                                
+CONECT 9537 9512 9538 9550                                                      
+CONECT 9538 9537 9539 9541                                                      
+CONECT 9539 9538 9540 9542                                                      
+CONECT 9540 9509 9539 9550                                                      
+CONECT 9541 9538                                                                
+CONECT 9542 9539 9543                                                           
+CONECT 9543 9542 9544                                                           
+CONECT 9544 9543 9545 9546                                                      
+CONECT 9545 9544                                                                
+CONECT 9546 9544                                                                
+CONECT 9547 9513 9516 9551                                                      
+CONECT 9548 9523 9526 9551                                                      
+CONECT 9549 9530 9533 9551                                                      
+CONECT 9550 9537 9540 9551                                                      
+CONECT 9551 5837 9547 9548 9549                                                 
+CONECT 9551 955010316                                                           
+CONECT 9552 9553                                                                
+CONECT 9553 9552 9554 9582                                                      
+CONECT 9554 9553 9555                                                           
+CONECT 9555 9554 9556                                                           
+CONECT 9556 9555 9557 9558                                                      
+CONECT 9557 9556                                                                
+CONECT 9558 9556 9559 9571                                                      
+CONECT 9559 9558 9560                                                           
+CONECT 9560 9559 9561 9569                                                      
+CONECT 9561 9560 9562                                                           
+CONECT 9562 9561 9563 9564                                                      
+CONECT 9563 9562                                                                
+CONECT 9564 9562 9565                                                           
+CONECT 9565 9564 9566 9569                                                      
+CONECT 9566 9565 9567 9568                                                      
+CONECT 9567 9566                                                                
+CONECT 9568 9566                                                                
+CONECT 9569 9560 9565 9570                                                      
+CONECT 9570 9569                                                                
+CONECT 9571 9558 9572 9573                                                      
+CONECT 9572 9571                                                                
+CONECT 9573 9571 9574                                                           
+CONECT 9574 9573 9575 9576                                                      
+CONECT 9575 9574                                                                
+CONECT 9576 9574 9577 9578                                                      
+CONECT 9577 9576                                                                
+CONECT 9578 9576 9579                                                           
+CONECT 9579 9578 9580                                                           
+CONECT 9580 9579 9581                                                           
+CONECT 9581 9580 9586                                                           
+CONECT 9582 9553 9583                                                           
+CONECT 9583 9582 9584 9586                                                      
+CONECT 9584 9583 9585                                                           
+CONECT 9585 9584                                                                
+CONECT 9586 9581 9583 9587                                                      
+CONECT 9587 9586 9588                                                           
+CONECT 9588 9587 9589                                                           
+CONECT 9589 9588 9590 9598                                                      
+CONECT 9590 9589 9591                                                           
+CONECT 9591 9590 9592 9593                                                      
+CONECT 9592 9591                                                                
+CONECT 9593 9591 9594 9595                                                      
+CONECT 9594 9593                                                                
+CONECT 9595 9593 9596 9598                                                      
+CONECT 9596 9595 9597                                                           
+CONECT 9597 9596                                                                
+CONECT 9598 9589 9595 9599                                                      
+CONECT 9599 9598 9600                                                           
+CONECT 9600 9599                                                                
+CONECT 9601 9602 9606 9607                                                      
+CONECT 9602 9601 9603                                                           
+CONECT 9603 9602 9604                                                           
+CONECT 9604 9603 9605                                                           
+CONECT 9605 9604 9606                                                           
+CONECT 9606 9601 9605                                                           
+CONECT 9607 9601 9608 9609                                                      
+CONECT 9608 9607                                                                
+CONECT 9609 9607                                                                
+CONECT 9610 9611 9615 9616                                                      
+CONECT 9611 9610 9612                                                           
+CONECT 9612 9611 9613                                                           
+CONECT 9613 9612 9614                                                           
+CONECT 9614 9613 9615                                                           
+CONECT 9615 9610 9614                                                           
+CONECT 9616 9610 9617 9618                                                      
+CONECT 9617 9616                                                                
+CONECT 9618 9616                                                                
+CONECT 9619 9620 9621                                                           
+CONECT 9620 9619                                                                
+CONECT 9621 9619 9622 9623                                                      
+CONECT 9622 9621                                                                
+CONECT 9623 9621 9624                                                           
+CONECT 9624 9623                                                                
+CONECT 9625 9626 9627                                                           
+CONECT 9626 9625                                                                
+CONECT 9627 9625 9628 9629                                                      
+CONECT 9628 9627                                                                
+CONECT 9629 9627 9630                                                           
+CONECT 9630 9629                                                                
+CONECT 9631 9635 9662                                                           
+CONECT 9632 9638 9645                                                           
+CONECT 9633 9648 9652                                                           
+CONECT 9634 9655 9659                                                           
+CONECT 9635 9631 9636 9669                                                      
+CONECT 9636 9635 9637 9640                                                      
+CONECT 9637 9636 9638 9639                                                      
+CONECT 9638 9632 9637 9669                                                      
+CONECT 9639 9637                                                                
+CONECT 9640 9636 9641                                                           
+CONECT 9641 9640 9642                                                           
+CONECT 9642 9641 9643 9644                                                      
+CONECT 9643 9642                                                                
+CONECT 9644 9642                                                                
+CONECT 9645 9632 9646 9670                                                      
+CONECT 9646 9645 9647 9649                                                      
+CONECT 9647 9646 9648 9650                                                      
+CONECT 9648 9633 9647 9670                                                      
+CONECT 9649 9646                                                                
+CONECT 9650 9647 9651                                                           
+CONECT 9651 9650                                                                
+CONECT 9652 9633 9653 9671                                                      
+CONECT 9653 9652 9654 9656                                                      
+CONECT 9654 9653 9655 9657                                                      
+CONECT 9655 9634 9654 9671                                                      
+CONECT 9656 9653                                                                
+CONECT 9657 9654 9658                                                           
+CONECT 9658 9657                                                                
+CONECT 9659 9634 9660 9672                                                      
+CONECT 9660 9659 9661 9663                                                      
+CONECT 9661 9660 9662 9664                                                      
+CONECT 9662 9631 9661 9672                                                      
+CONECT 9663 9660                                                                
+CONECT 9664 9661 9665                                                           
+CONECT 9665 9664 9666                                                           
+CONECT 9666 9665 9667 9668                                                      
+CONECT 9667 9666                                                                
+CONECT 9668 9666                                                                
+CONECT 9669 9635 9638 9673                                                      
+CONECT 9670 9645 9648 9673                                                      
+CONECT 9671 9652 9655 9673                                                      
+CONECT 9672 9659 9662 9673                                                      
+CONECT 9673 8979 9669 9670 9671                                                 
+CONECT 9673 9672                                                                
+CONECT 9674 9675                                                                
+CONECT 9675 9674 9676 9704                                                      
+CONECT 9676 9675 9677                                                           
+CONECT 9677 9676 9678                                                           
+CONECT 9678 9677 9679 9680                                                      
+CONECT 9679 9678                                                                
+CONECT 9680 9678 9681 9693                                                      
+CONECT 9681 9680 9682                                                           
+CONECT 9682 9681 9683 9691                                                      
+CONECT 9683 9682 9684                                                           
+CONECT 9684 9683 9685 9686                                                      
+CONECT 9685 9684                                                                
+CONECT 9686 9684 9687                                                           
+CONECT 9687 9686 9688 9691                                                      
+CONECT 9688 9687 9689 9690                                                      
+CONECT 9689 9688                                                                
+CONECT 9690 9688                                                                
+CONECT 9691 9682 9687 9692                                                      
+CONECT 9692 9691                                                                
+CONECT 9693 9680 9694 9695                                                      
+CONECT 9694 9693                                                                
+CONECT 9695 9693 9696                                                           
+CONECT 9696 9695 9697 9698                                                      
+CONECT 9697 9696                                                                
+CONECT 9698 9696 9699 9700                                                      
+CONECT 9699 9698                                                                
+CONECT 9700 9698 9701                                                           
+CONECT 9701 9700 9702                                                           
+CONECT 9702 9701 9703                                                           
+CONECT 9703 9702 9708                                                           
+CONECT 9704 9675 9705                                                           
+CONECT 9705 9704 9706 9708                                                      
+CONECT 9706 9705 9707                                                           
+CONECT 9707 9706                                                                
+CONECT 9708 9703 9705 9709                                                      
+CONECT 9709 9708 9710                                                           
+CONECT 9710 9709 9711                                                           
+CONECT 9711 9710 9712 9720                                                      
+CONECT 9712 9711 9713                                                           
+CONECT 9713 9712 9714 9715                                                      
+CONECT 9714 9713                                                                
+CONECT 9715 9713 9716 9717                                                      
+CONECT 9716 9715                                                                
+CONECT 9717 9715 9718 9720                                                      
+CONECT 9718 9717 9719                                                           
+CONECT 9719 9718                                                                
+CONECT 9720 9711 9717 9721                                                      
+CONECT 9721 9720 9722                                                           
+CONECT 9722 9721                                                                
+CONECT 9723 9724 9728 9729                                                      
+CONECT 9724 9723 9725                                                           
+CONECT 9725 9724 9726                                                           
+CONECT 9726 9725 9727                                                           
+CONECT 9727 9726 9728                                                           
+CONECT 9728 9723 9727                                                           
+CONECT 9729 9723 9730 9731                                                      
+CONECT 9730 9729                                                                
+CONECT 9731 9729                                                                
+CONECT 9732 9733 9734                                                           
+CONECT 9733 9732                                                                
+CONECT 9734 9732 9735 9736                                                      
+CONECT 9735 9734                                                                
+CONECT 9736 9734 9737                                                           
+CONECT 9737 9736                                                                
+CONECT 9738 9739 9740                                                           
+CONECT 9739 9738                                                                
+CONECT 9740 9738 9741 9742                                                      
+CONECT 9741 9740                                                                
+CONECT 9742 9740 9743                                                           
+CONECT 9743 9742                                                                
+CONECT 9964 9432                                                                
+CONECT10316 9551                                                                

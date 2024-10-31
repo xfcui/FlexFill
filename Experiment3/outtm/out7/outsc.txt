@@ -1,0 +1,23 @@
+
+ *********************************************************************
+ * TM-align (Version 20220412): protein structure alignment          *
+ * References: Y Zhang, J Skolnick. Nucl Acids Res 33, 2302-9 (2005) *
+ * Please email comments and suggestions to yangzhanglab@umich.edu   *
+ *********************************************************************
+
+Name of Chain_1: ./process_pdb/3E5K_A/rec.pdb (to be superimposed onto Chain_2)
+Name of Chain_2: ./process_pdb/3IVY_A/rec.pdb
+Length of Chain_1: 382 residues
+Length of Chain_2: 399 residues
+
+Aligned length= 365, RMSD=   2.61, Seq_ID=n_identical/n_aligned= 0.277
+TM-score= 0.86523 (if normalized by length of Chain_1, i.e., LN=382, d0=7.08)
+TM-score= 0.83080 (if normalized by length of Chain_2, i.e., LN=399, d0=7.21)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d <  5.0 Angstrom, "." denotes other aligned residues)
+-----PTVP-K--ARSCPFLPPDGIADIRAAAPVTRATFT--SG-----HEAWLVTGYEEVRALLRD-SSFSV--QV--PH----------KPGRGSLLWQDEPEHTSDRKLLAKEFTVRRMQALRPNIQRIVDEHLDAIEARGGPVDLVKTFANAVPSMVISDLFGVPVERRAEFQDIAEAMM-R-V-DQDAAATEAAGMRLGGLLYQLVQERRANPGDDLISALITTEDPDGVVDDMFLMNAAGTLLIAAHDTTACMIGLGTALLLDSPDQLALLREDPSLVGNAVEELLRYLTIGQFGGERVATRDVELGGVRIAKGEQVVAHVLAADFDPAFVEEPERFDITRRPAPHLAFGF-GAHQCIGQQLARIELQIVFETLFRRLPGLRLAKPVEELRFRHDIVFYGVHELPVTWHH
+     .::: .  :...: .:::::::::::::::::::.  ::     :::::::::::::::::: :::::  ::  ::          :....:::::::::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::::::.:. . . ::::.::::::::::::::::::: :      ::::::::::: . ::::::::::::::::::::::::::::::::::::::::::: :::: :::::::::::::::.: ::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::: ::  :::::.::..:::::::::::.
+PNLPPGFDFTDPAIYAER-LPVAEFAELRSAAPIWWNGQDPGKGGGFHDGGFWAITKLNDVKEISRHSDVFSSYENGVIPRFKNDIAREDIEVQRFVMLNMDAPHHTRLRKIISRGFTPRAVGRLHDELQERAQKIAAEAAA-AGSGDFVEQVSCELPLQAIAGLLGVPQEDRGKLFHWSNEMTGNEDPEYAHIDPKASSAELIGYAMKMAEE-K------IVTQLIQADGE-K-LSDDEFGFFVVMLAVAGNETTRNSITQGMMAFAEHPDQWELYK-KVRP-ETAADEIVRWATPVTAF-QRTALRDYELSGVQIKKGQRVVMFYRSANFDEEVFQDPFTFNILRNPNPHVGFGGTGAHYCIGANLARMTINLIFNAVADHMPDLKP-IS--APERLRSGWLNGIKHWQVDYTG
+
+Total CPU time is  0.55 seconds

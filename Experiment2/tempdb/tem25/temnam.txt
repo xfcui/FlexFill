@@ -1,0 +1,1 @@
+./templete/4LHT_A/rec.pdb

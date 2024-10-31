@@ -1,0 +1,1 @@
+./templete/3CLI_A/rec.pdb

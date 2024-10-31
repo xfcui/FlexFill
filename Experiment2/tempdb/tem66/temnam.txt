@@ -1,0 +1,1 @@
+./templete/5A1R_A/rec.pdb

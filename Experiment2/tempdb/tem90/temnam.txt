@@ -1,0 +1,1 @@
+./templete/3NC7_A/rec.pdb

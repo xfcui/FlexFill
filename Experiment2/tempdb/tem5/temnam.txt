@@ -1,0 +1,1 @@
+./templete/3ABB_A/rec.pdb

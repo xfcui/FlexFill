@@ -1,0 +1,150 @@
+CHARGE      0.00 ( 0 )
+Formula: H30 C34 N4 O4 
+ATOM      1  CHA HEM   999      54.258  65.706  43.527  0.000000        ce
+ATOM      2  CHB HEM   999      49.437  65.672  44.015  0.000000        ce
+ATOM      3  CHC HEM   999      49.680  69.518  46.943  0.000000        ce
+ATOM      4  CHD HEM   999      54.459  69.815  46.112  0.000000        ce
+ATOM      5  NA  HEM   999      51.886  66.004  44.115  0.000000        nd
+ATOM      6  C1A HEM   999      52.932  65.265  43.582  0.000000        cc
+ATOM      7  C2A HEM   999      52.437  64.088  42.888  0.000000        cc
+ATOM      8  C3A HEM   999      51.090  64.124  42.978  0.000000        cd
+ATOM      9  C4A HEM   999      50.761  65.283  43.768  0.000000        cd
+ATOM     10  CMA HEM   999      50.043  63.273  42.259  0.000000        c3
+ATOM     11  CAA HEM   999      53.313  63.160  42.050  0.000000        c3
+ATOM     12  CBA HEM   999      53.562  63.551  40.612  0.000000        c3
+ATOM     13  CGA HEM   999      54.254  62.530  39.717  0.000000         c
+ATOM     14  O1A HEM   999      54.351  61.340  40.104  0.000000         o
+ATOM     15  O2A HEM   999      54.678  62.930  38.614  0.000000         o
+ATOM     16  NB  HEM   999      49.997  67.700  45.299  0.000000        nd
+ATOM     17  C1B HEM   999      49.106  66.717  44.861  0.000000        cc
+ATOM     18  C2B HEM   999      47.746  67.045  45.215  0.000000        cc
+ATOM     19  C3B HEM   999      47.815  68.134  46.009  0.000000        cd
+ATOM     20  C4B HEM   999      49.219  68.482  46.135  0.000000        cd
+ATOM     21  CMB HEM   999      46.552  66.147  44.876  0.000000        c3
+ATOM     22  CAB HEM   999      46.824  68.809  46.746  0.000000        cf
+ATOM     23  CBB HEM   999      45.673  68.323  47.303  0.000000        c2
+ATOM     24  NC  HEM   999      52.038  69.321  46.281  0.000000        nd
+ATOM     25  C1C HEM   999      51.030  69.903  47.027  0.000000        cc
+ATOM     26  C2C HEM   999      51.515  71.067  47.739  0.000000        cc
+ATOM     27  C3C HEM   999      52.844  71.132  47.507  0.000000        cd
+ATOM     28  C4C HEM   999      53.179  70.027  46.645  0.000000        cd
+ATOM     29  CMC HEM   999      50.655  71.922  48.666  0.000000        c3
+ATOM     30  CAC HEM   999      53.784  72.046  47.986  0.000000        cf
+ATOM     31  CBC HEM   999      53.733  73.085  48.872  0.000000        c2
+ATOM     32  ND  HEM   999      53.923  67.704  44.953  0.000000        nd
+ATOM     33  C1D HEM   999      54.808  68.689  45.361  0.000000        cc
+ATOM     34  C2D HEM   999      56.168  68.333  45.007  0.000000        cc
+ATOM     35  C3D HEM   999      56.108  67.170  44.329  0.000000        cd
+ATOM     36  C4D HEM   999      54.719  66.789  44.265  0.000000        cd
+ATOM     37  CMD HEM   999      57.385  69.158  45.411  0.000000        c3
+ATOM     38  CAD HEM   999      57.273  66.264  43.901  0.000000        c3
+ATOM     39  CBD HEM   999      57.785  65.296  44.971  0.000000        c3
+ATOM     40  CGD HEM   999      59.074  64.615  44.488  0.000000         c
+ATOM     41  O1D HEM   999      60.080  64.741  45.205  0.000000         o
+ATOM     42  O2D HEM   999      59.095  63.971  43.438  0.000000         o
+ATOM     43  HMA1HEM   999      50.434  62.884  41.461  0.000000        hc
+ATOM     44  HMA2HEM   999      49.288  63.830  42.011  0.000000        hc
+ATOM     45  HMA3HEM   999      49.741  62.564  42.849  0.000000        hc
+ATOM     46  HMB1HEM   999      46.737  65.657  44.059  0.000000        hc
+ATOM     47  HMB2HEM   999      45.760  66.694  44.752  0.000000        hc
+ATOM     48  HMB3HEM   999      46.402  65.521  45.601  0.000000        hc
+ATOM     49  HMC1HEM   999      49.733  71.900  48.364  0.000000        hc
+ATOM     50  HMC2HEM   999      50.977  72.837  48.654  0.000000        hc
+ATOM     51  HMC3HEM   999      50.707  71.573  49.570  0.000000        hc
+ATOM     52  HMD1HEM   999      58.153  68.574  45.512  0.000000        hc
+ATOM     53  HMD2HEM   999      57.207  69.606  46.253  0.000000        hc
+ATOM     54  HMD3HEM   999      57.570  69.819  44.726  0.000000        hc
+ATOM     55  HBB1HEM   999      45.080  68.918  47.789  0.000000        ha
+ATOM     56  HBB2HEM   999      45.449  67.383  47.212  0.000000        ha
+ATOM     57  HBC1HEM   999      54.532  73.601  49.061  0.000000        ha
+ATOM     58  HBC2HEM   999      52.898  73.306  49.312  0.000000        ha
+ATOM     59  HBA1HEM   999      54.095  64.361  40.610  0.000000        hc
+ATOM     60  HBA2HEM   999      52.708  63.772  40.209  0.000000        hc
+ATOM     61  HAA1HEM   999      52.907  62.279  42.055  0.000000        hc
+ATOM     62  HAA2HEM   999      54.173  63.079  42.492  0.000000        hc
+ATOM     63  HBD1HEM   999      57.109  64.627  45.163  0.000000        hc
+ATOM     64  HBD2HEM   999      57.953  65.775  45.798  0.000000        hc
+ATOM     65  HAD1HEM   999      58.011  66.826  43.616  0.000000        hc
+ATOM     66  HAD2HEM   999      56.994  65.749  43.128  0.000000        hc
+ATOM     67  HHA HEM   999      54.855  65.256  42.974  0.000000        ha
+ATOM     68  HHB HEM   999      48.751  65.208  43.592  0.000000        ha
+ATOM     69  HHC HEM   999      49.059  69.982  47.457  0.000000        ha
+ATOM     70  HHD HEM   999      55.112  70.459  46.267  0.000000        ha
+ATOM     71  HAB HEM   999      46.980  69.757  46.878  0.000000        ha
+ATOM     72  HAC HEM   999      54.667  71.915  47.607  0.000000        ha
+BOND    1    1    6    1    CHA  C1A
+BOND    2    1   36    2    CHA  C4D
+BOND    3    1   67    1    CHA  HHA
+BOND    4    2    9    2    CHB  C4A
+BOND    5    2   17    1    CHB  C1B
+BOND    6    2   68    1    CHB  HHB
+BOND    7    3   20    2    CHC  C4B
+BOND    8    3   25    1    CHC  C1C
+BOND    9    3   69    1    CHC  HHC
+BOND   10    4   28    2    CHD  C4C
+BOND   11    4   33    1    CHD  C1D
+BOND   12    4   70    1    CHD  HHD
+BOND   13    5    6    2     NA  C1A
+BOND   14    5    9    1     NA  C4A
+BOND   15    6    7    1    C1A  C2A
+BOND   16    7    8    2    C2A  C3A
+BOND   17    7   11    1    C2A  CAA
+BOND   18    8    9    1    C3A  C4A
+BOND   19    8   10    1    C3A  CMA
+BOND   20   10   43    1    CMA HMA1
+BOND   21   10   44    1    CMA HMA2
+BOND   22   10   45    1    CMA HMA3
+BOND   23   11   12    1    CAA  CBA
+BOND   24   11   61    1    CAA HAA1
+BOND   25   11   62    1    CAA HAA2
+BOND   26   12   13    1    CBA  CGA
+BOND   27   12   59    1    CBA HBA1
+BOND   28   12   60    1    CBA HBA2
+BOND   29   13   14    9    CGA  O1A
+BOND   30   13   15    9    CGA  O2A
+BOND   31   16   17    2     NB  C1B
+BOND   32   16   20    1     NB  C4B
+BOND   33   17   18    1    C1B  C2B
+BOND   34   18   19    2    C2B  C3B
+BOND   35   18   21    1    C2B  CMB
+BOND   36   19   20    1    C3B  C4B
+BOND   37   19   22    1    C3B  CAB
+BOND   38   21   46    1    CMB HMB1
+BOND   39   21   47    1    CMB HMB2
+BOND   40   21   48    1    CMB HMB3
+BOND   41   22   23    2    CAB  CBB
+BOND   42   22   71    1    CAB  HAB
+BOND   43   23   55    1    CBB HBB1
+BOND   44   23   56    1    CBB HBB2
+BOND   45   24   25    2     NC  C1C
+BOND   46   24   28    1     NC  C4C
+BOND   47   25   26    1    C1C  C2C
+BOND   48   26   27    2    C2C  C3C
+BOND   49   26   29    1    C2C  CMC
+BOND   50   27   28    1    C3C  C4C
+BOND   51   27   30    1    C3C  CAC
+BOND   52   29   49    1    CMC HMC1
+BOND   53   29   50    1    CMC HMC2
+BOND   54   29   51    1    CMC HMC3
+BOND   55   30   31    2    CAC  CBC
+BOND   56   30   72    1    CAC  HAC
+BOND   57   31   57    1    CBC HBC1
+BOND   58   31   58    1    CBC HBC2
+BOND   59   32   33    2     ND  C1D
+BOND   60   32   36    1     ND  C4D
+BOND   61   33   34    1    C1D  C2D
+BOND   62   34   35    2    C2D  C3D
+BOND   63   34   37    1    C2D  CMD
+BOND   64   35   36    1    C3D  C4D
+BOND   65   35   38    1    C3D  CAD
+BOND   66   37   52    1    CMD HMD1
+BOND   67   37   53    1    CMD HMD2
+BOND   68   37   54    1    CMD HMD3
+BOND   69   38   39    1    CAD  CBD
+BOND   70   38   65    1    CAD HAD1
+BOND   71   38   66    1    CAD HAD2
+BOND   72   39   40    1    CBD  CGD
+BOND   73   39   63    1    CBD HBD1
+BOND   74   39   64    1    CBD HBD2
+BOND   75   40   41    9    CGD  O1D
+BOND   76   40   42    9    CGD  O2D

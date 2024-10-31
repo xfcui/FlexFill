@@ -1,0 +1,279 @@
+HETATM 7677  CHA HEM A 471      55.450  65.375  43.721  1.00 14.66           C  
+HETATM 7678  CHB HEM A 471      50.634  65.443  44.171  1.00 15.55           C  
+HETATM 7679  CHC HEM A 471      50.915  69.479  46.825  1.00 13.51           C  
+HETATM 7680  CHD HEM A 471      55.699  69.559  46.170  1.00 14.10           C  
+HETATM 7681  C1A HEM A 471      54.109  65.006  43.625  1.00 14.82           C  
+HETATM 7682  C2A HEM A 471      53.607  63.833  42.923  1.00 14.46           C  
+HETATM 7683  C3A HEM A 471      52.241  63.886  43.021  1.00 14.80           C  
+HETATM 7684  C4A HEM A 471      51.931  65.058  43.816  1.00 14.49           C  
+HETATM 7685  CMA HEM A 471      51.220  62.937  42.430  1.00 14.34           C  
+HETATM 7686  CAA HEM A 471      54.435  62.779  42.190  1.00 15.70           C  
+HETATM 7687  CBA HEM A 471      54.698  63.182  40.715  1.00 15.44           C  
+HETATM 7688  CGA HEM A 471      55.329  62.229  39.850  1.00 16.26           C  
+HETATM 7689  O1A HEM A 471      55.434  61.012  40.247  1.00 16.53           O  
+HETATM 7690  O2A HEM A 471      55.793  62.571  38.737  1.00 17.20           O  
+HETATM 7691  C1B HEM A 471      50.294  66.540  44.937  1.00 14.16           C  
+HETATM 7692  C2B HEM A 471      48.926  66.870  45.320  1.00 14.75           C  
+HETATM 7693  C3B HEM A 471      49.006  68.008  46.087  1.00 14.86           C  
+HETATM 7694  C4B HEM A 471      50.412  68.371  46.153  1.00 13.61           C  
+HETATM 7695  CMB HEM A 471      47.726  66.042  44.912  1.00 17.36           C  
+HETATM 7696  CAB HEM A 471      47.925  68.823  46.778  1.00 16.81           C  
+HETATM 7697  CBB HEM A 471      46.794  68.051  47.460  1.00 26.74           C  
+HETATM 7698  C1C HEM A 471      52.255  69.859  46.907  1.00 12.92           C  
+HETATM 7699  C2C HEM A 471      52.739  71.018  47.615  1.00 13.22           C  
+HETATM 7700  C3C HEM A 471      54.100  71.048  47.420  1.00 13.43           C  
+HETATM 7701  C4C HEM A 471      54.422  69.898  46.606  1.00 13.09           C  
+HETATM 7702  CMC HEM A 471      51.846  71.957  48.394  1.00 15.41           C  
+HETATM 7703  CAC HEM A 471      55.150  72.049  47.933  1.00 15.53           C  
+HETATM 7704  CBC HEM A 471      54.945  72.569  49.390  1.00 29.41           C  
+HETATM 7705  C1D HEM A 471      56.048  68.426  45.422  1.00 13.75           C  
+HETATM 7706  C2D HEM A 471      57.402  68.109  45.018  1.00 13.65           C  
+HETATM 7707  C3D HEM A 471      57.335  66.930  44.391  1.00 13.68           C  
+HETATM 7708  C4D HEM A 471      55.924  66.531  44.343  1.00 15.65           C  
+HETATM 7709  CMD HEM A 471      58.599  68.980  45.323  1.00 15.22           C  
+HETATM 7710  CAD HEM A 471      58.454  66.095  43.831  1.00 16.14           C  
+HETATM 7711  CBD HEM A 471      59.119  65.199  44.996  1.00 15.50           C  
+HETATM 7712  CGD HEM A 471      60.239  64.416  44.527  1.00 17.29           C  
+HETATM 7713  O1D HEM A 471      61.327  64.389  45.184  1.00 16.62           O  
+HETATM 7714  O2D HEM A 471      60.169  63.740  43.481  1.00 16.39           O  
+HETATM 7715  NA  HEM A 471      53.071  65.732  44.186  1.00 15.29           N  
+HETATM 7716  NB  HEM A 471      51.196  67.450  45.465  1.00 14.61           N  
+HETATM 7717  NC  HEM A 471      53.304  69.156  46.326  1.00 14.41           N  
+HETATM 7718  ND  HEM A 471      55.161  67.461  45.009  1.00 13.83           N  
+HETATM 7719 FE   HEM A 471      53.182  67.405  45.341  1.00 14.32          FE  
+CONECT 3354 7719                                                                
+CONECT 7214 7840                                                                
+CONECT 7677 7681 7708                                                           
+CONECT 7678 7684 7691                                                           
+CONECT 7679 7694 7698                                                           
+CONECT 7680 7701 7705                                                           
+CONECT 7681 7677 7682 7715                                                      
+CONECT 7682 7681 7683 7686                                                      
+CONECT 7683 7682 7684 7685                                                      
+CONECT 7684 7678 7683 7715                                                      
+CONECT 7685 7683                                                                
+CONECT 7686 7682 7687                                                           
+CONECT 7687 7686 7688                                                           
+CONECT 7688 7687 7689 7690                                                      
+CONECT 7689 7688                                                                
+CONECT 7690 7688                                                                
+CONECT 7691 7678 7692 7716                                                      
+CONECT 7692 7691 7693 7695                                                      
+CONECT 7693 7692 7694 7696                                                      
+CONECT 7694 7679 7693 7716                                                      
+CONECT 7695 7692                                                                
+CONECT 7696 7693 7697                                                           
+CONECT 7697 7696                                                                
+CONECT 7698 7679 7699 7717                                                      
+CONECT 7699 7698 7700 7702                                                      
+CONECT 7700 7699 7701 7703                                                      
+CONECT 7701 7680 7700 7717                                                      
+CONECT 7702 7699                                                                
+CONECT 7703 7700 7704                                                           
+CONECT 7704 7703                                                                
+CONECT 7705 7680 7706 7718                                                      
+CONECT 7706 7705 7707 7709                                                      
+CONECT 7707 7706 7708 7710                                                      
+CONECT 7708 7677 7707 7718                                                      
+CONECT 7709 7706                                                                
+CONECT 7710 7707 7711                                                           
+CONECT 7711 7710 7712                                                           
+CONECT 7712 7711 7713 7714                                                      
+CONECT 7713 7712                                                                
+CONECT 7714 7712                                                                
+CONECT 7715 7681 7684 7719                                                      
+CONECT 7716 7691 7694 7719                                                      
+CONECT 7717 7698 7701 7719                                                      
+CONECT 7718 7705 7708 7719                                                      
+CONECT 7719 3354 7715 7716 7717                                                 
+CONECT 7719 7718 8282                                                           
+CONECT 7720 7721 7725                                                           
+CONECT 7721 7720 7722                                                           
+CONECT 7722 7721 7723                                                           
+CONECT 7723 7722 7724 7726                                                      
+CONECT 7724 7723 7725                                                           
+CONECT 7725 7720 7724                                                           
+CONECT 7726 7723 7727                                                           
+CONECT 7727 7726 7728                                                           
+CONECT 7728 7727 7729 7730 7731                                                 
+CONECT 7729 7728                                                                
+CONECT 7730 7728                                                                
+CONECT 7731 7728                                                                
+CONECT 7732 7733 7734                                                           
+CONECT 7733 7732                                                                
+CONECT 7734 7732 7735 7736                                                      
+CONECT 7735 7734                                                                
+CONECT 7736 7734 7737                                                           
+CONECT 7737 7736                                                                
+CONECT 7738 7739 7740                                                           
+CONECT 7739 7738                                                                
+CONECT 7740 7738 7741 7742                                                      
+CONECT 7741 7740                                                                
+CONECT 7742 7740 7743                                                           
+CONECT 7743 7742                                                                
+CONECT 7744 7745 7746                                                           
+CONECT 7745 7744                                                                
+CONECT 7746 7744 7747 7748                                                      
+CONECT 7747 7746                                                                
+CONECT 7748 7746 7749                                                           
+CONECT 7749 7748                                                                
+CONECT 7750 7751 7752                                                           
+CONECT 7751 7750                                                                
+CONECT 7752 7750 7753 7754                                                      
+CONECT 7753 7752                                                                
+CONECT 7754 7752 7755                                                           
+CONECT 7755 7754                                                                
+CONECT 7756 7757 7758                                                           
+CONECT 7757 7756                                                                
+CONECT 7758 7756 7759 7760                                                      
+CONECT 7759 7758                                                                
+CONECT 7760 7758 7761                                                           
+CONECT 7761 7760                                                                
+CONECT 7762 7763 7764                                                           
+CONECT 7763 7762                                                                
+CONECT 7764 7762 7765 7766                                                      
+CONECT 7765 7764                                                                
+CONECT 7766 7764 7767                                                           
+CONECT 7767 7766                                                                
+CONECT 7768 7769 7770                                                           
+CONECT 7769 7768                                                                
+CONECT 7770 7768 7771 7772                                                      
+CONECT 7771 7770                                                                
+CONECT 7772 7770 7773                                                           
+CONECT 7773 7772                                                                
+CONECT 7774 7775 7776                                                           
+CONECT 7775 7774                                                                
+CONECT 7776 7774 7777 7778                                                      
+CONECT 7777 7776                                                                
+CONECT 7778 7776 7779                                                           
+CONECT 7779 7778                                                                
+CONECT 7780 7781 7782                                                           
+CONECT 7781 7780                                                                
+CONECT 7782 7780 7783 7784                                                      
+CONECT 7783 7782                                                                
+CONECT 7784 7782 7785                                                           
+CONECT 7785 7784                                                                
+CONECT 7786 7787 7788                                                           
+CONECT 7787 7786                                                                
+CONECT 7788 7786 7789 7790                                                      
+CONECT 7789 7788                                                                
+CONECT 7790 7788 7791                                                           
+CONECT 7791 7790                                                                
+CONECT 7792 7793 7794                                                           
+CONECT 7793 7792                                                                
+CONECT 7794 7792 7795 7796                                                      
+CONECT 7795 7794                                                                
+CONECT 7796 7794 7797                                                           
+CONECT 7797 7796                                                                
+CONECT 7798 7802 7829                                                           
+CONECT 7799 7805 7812                                                           
+CONECT 7800 7815 7819                                                           
+CONECT 7801 7822 7826                                                           
+CONECT 7802 7798 7803 7836                                                      
+CONECT 7803 7802 7804 7807                                                      
+CONECT 7804 7803 7805 7806                                                      
+CONECT 7805 7799 7804 7836                                                      
+CONECT 7806 7804                                                                
+CONECT 7807 7803 7808                                                           
+CONECT 7808 7807 7809                                                           
+CONECT 7809 7808 7810 7811                                                      
+CONECT 7810 7809                                                                
+CONECT 7811 7809                                                                
+CONECT 7812 7799 7813 7837                                                      
+CONECT 7813 7812 7814 7816                                                      
+CONECT 7814 7813 7815 7817                                                      
+CONECT 7815 7800 7814 7837                                                      
+CONECT 7816 7813                                                                
+CONECT 7817 7814 7818                                                           
+CONECT 7818 7817                                                                
+CONECT 7819 7800 7820 7838                                                      
+CONECT 7820 7819 7821 7823                                                      
+CONECT 7821 7820 7822 7824                                                      
+CONECT 7822 7801 7821 7838                                                      
+CONECT 7823 7820                                                                
+CONECT 7824 7821 7825                                                           
+CONECT 7825 7824                                                                
+CONECT 7826 7801 7827 7839                                                      
+CONECT 7827 7826 7828 7830                                                      
+CONECT 7828 7827 7829 7831                                                      
+CONECT 7829 7798 7828 7839                                                      
+CONECT 7830 7827                                                                
+CONECT 7831 7828 7832                                                           
+CONECT 7832 7831 7833                                                           
+CONECT 7833 7832 7834 7835                                                      
+CONECT 7834 7833                                                                
+CONECT 7835 7833                                                                
+CONECT 7836 7802 7805 7840                                                      
+CONECT 7837 7812 7815 7840                                                      
+CONECT 7838 7819 7822 7840                                                      
+CONECT 7839 7826 7829 7840                                                      
+CONECT 7840 7214 7836 7837 7838                                                 
+CONECT 7840 7839 8717                                                           
+CONECT 7841 7842 7846                                                           
+CONECT 7842 7841 7843                                                           
+CONECT 7843 7842 7844                                                           
+CONECT 7844 7843 7845 7847                                                      
+CONECT 7845 7844 7846                                                           
+CONECT 7846 7841 7845                                                           
+CONECT 7847 7844 7848                                                           
+CONECT 7848 7847 7849                                                           
+CONECT 7849 7848 7850 7851 7852                                                 
+CONECT 7850 7849                                                                
+CONECT 7851 7849                                                                
+CONECT 7852 7849                                                                
+CONECT 7853 7854 7855                                                           
+CONECT 7854 7853                                                                
+CONECT 7855 7853 7856 7857                                                      
+CONECT 7856 7855                                                                
+CONECT 7857 7855 7858                                                           
+CONECT 7858 7857                                                                
+CONECT 7859 7860 7861                                                           
+CONECT 7860 7859                                                                
+CONECT 7861 7859 7862 7863                                                      
+CONECT 7862 7861                                                                
+CONECT 7863 7861 7864                                                           
+CONECT 7864 7863                                                                
+CONECT 7865 7866 7867                                                           
+CONECT 7866 7865                                                                
+CONECT 7867 7865 7868 7869                                                      
+CONECT 7868 7867                                                                
+CONECT 7869 7867 7870                                                           
+CONECT 7870 7869                                                                
+CONECT 7871 7872 7873                                                           
+CONECT 7872 7871                                                                
+CONECT 7873 7871 7874 7875                                                      
+CONECT 7874 7873                                                                
+CONECT 7875 7873 7876                                                           
+CONECT 7876 7875                                                                
+CONECT 7877 7878 7879                                                           
+CONECT 7878 7877                                                                
+CONECT 7879 7877 7880 7881                                                      
+CONECT 7880 7879                                                                
+CONECT 7881 7879 7882                                                           
+CONECT 7882 7881                                                                
+CONECT 7883 7884 7885                                                           
+CONECT 7884 7883                                                                
+CONECT 7885 7883 7886 7887                                                      
+CONECT 7886 7885                                                                
+CONECT 7887 7885 7888                                                           
+CONECT 7888 7887                                                                
+CONECT 7889 7890 7891                                                           
+CONECT 7890 7889                                                                
+CONECT 7891 7889 7892 7893                                                      
+CONECT 7892 7891                                                                
+CONECT 7893 7891 7894                                                           
+CONECT 7894 7893                                                                
+CONECT 7895 7896 7897                                                           
+CONECT 7896 7895                                                                
+CONECT 7897 7895 7898 7899                                                      
+CONECT 7898 7897                                                                
+CONECT 7899 7897 7900                                                           
+CONECT 7900 7899                                                                
+CONECT 7901 7902 7903                                                           
+CONECT 7902 7901                                                                
+CONECT 7903 7901 7904 7905                                                      
+CONECT 7904 7903                                                                
+CONECT 7905 7903 7906                                                           
+CONECT 7906 7905                                                                
+CONECT 8282 7719                                                                
+CONECT 8717 7840                                                                

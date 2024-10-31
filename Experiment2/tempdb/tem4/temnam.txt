@@ -1,0 +1,1 @@
+./templete/3G93_A/rec.pdb

@@ -1,0 +1,1 @@
+./templete/6DAG_A/rec.pdb

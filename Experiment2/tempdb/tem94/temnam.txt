@@ -1,0 +1,1 @@
+./templete/4DTY_A/rec.pdb

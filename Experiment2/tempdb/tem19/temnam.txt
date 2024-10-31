@@ -1,0 +1,1 @@
+./templete/6UPG_A/rec.pdb

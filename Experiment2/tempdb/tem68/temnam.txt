@@ -1,0 +1,1 @@
+./templete/1GWI_A/rec.pdb

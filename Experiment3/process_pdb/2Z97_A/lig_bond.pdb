@@ -1,0 +1,62 @@
+CONECT  665 3419                                                                
+CONECT  671 3419                                                                
+CONECT  746 3419                                                                
+CONECT  750 3419                                                                
+CONECT  764 3419                                                                
+CONECT 2957 3420                                                                
+CONECT 3419  665  671  746  750                                                 
+CONECT 3419  764 3632 3742                                                      
+CONECT 3420 2957 3425 3432 3440                                                 
+CONECT 3420 3448 4075                                                           
+CONECT 3421 3426 3452                                                           
+CONECT 3422 3429 3433                                                           
+CONECT 3423 3436 3441                                                           
+CONECT 3424 3444 3449                                                           
+CONECT 3425 3420 3426 3429                                                      
+CONECT 3426 3421 3425 3427                                                      
+CONECT 3427 3426 3428 3431                                                      
+CONECT 3428 3427 3429 3430                                                      
+CONECT 3429 3422 3425 3428                                                      
+CONECT 3430 3428                                                                
+CONECT 3431 3427                                                                
+CONECT 3432 3420 3433 3436                                                      
+CONECT 3433 3422 3432 3434                                                      
+CONECT 3434 3433 3435 3437                                                      
+CONECT 3435 3434 3436 3438                                                      
+CONECT 3436 3423 3432 3435                                                      
+CONECT 3437 3434                                                                
+CONECT 3438 3435 3439                                                           
+CONECT 3439 3438                                                                
+CONECT 3440 3420 3441 3444                                                      
+CONECT 3441 3423 3440 3442                                                      
+CONECT 3442 3441 3443 3445                                                      
+CONECT 3443 3442 3444 3446                                                      
+CONECT 3444 3424 3440 3443                                                      
+CONECT 3445 3442                                                                
+CONECT 3446 3443 3447                                                           
+CONECT 3447 3446                                                                
+CONECT 3448 3420 3449 3452                                                      
+CONECT 3449 3424 3448 3450                                                      
+CONECT 3450 3449 3451 3453                                                      
+CONECT 3451 3450 3452 3454                                                      
+CONECT 3452 3421 3448 3451                                                      
+CONECT 3453 3450                                                                
+CONECT 3454 3451 3455                                                           
+CONECT 3455 3454 3456                                                           
+CONECT 3456 3455 3457 3458                                                      
+CONECT 3457 3456                                                                
+CONECT 3458 3456                                                                
+CONECT 3459 3460 3465 3466 3469                                                 
+CONECT 3460 3459 3461 3462                                                      
+CONECT 3461 3460                                                                
+CONECT 3462 3460 3463                                                           
+CONECT 3463 3462 3464 3466                                                      
+CONECT 3464 3463 3465                                                           
+CONECT 3465 3459 3464                                                           
+CONECT 3466 3459 3463 3467 3468                                                 
+CONECT 3467 3466                                                                
+CONECT 3468 3466                                                                
+CONECT 3469 3459                                                                
+CONECT 3632 3419                                                                
+CONECT 3742 3419                                                                
+CONECT 4075 3420                                                                

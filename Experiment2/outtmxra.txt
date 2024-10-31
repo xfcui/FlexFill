@@ -1,0 +1,23 @@
+
+ *********************************************************************
+ * TM-align (Version 20220412): protein structure alignment          *
+ * References: Y Zhang, J Skolnick. Nucl Acids Res 33, 2302-9 (2005) *
+ * Please email comments and suggestions to yangzhanglab@umich.edu   *
+ *********************************************************************
+
+Name of Chain_1: ./alfpdb/alf19/apdb.pdb (to be superimposed onto Chain_2)
+Name of Chain_2: ./templete/1WIY_A/rec.pdb
+Length of Chain_1: 479 residues
+Length of Chain_2: 358 residues
+
+Aligned length= 357, RMSD=   2.85, Seq_ID=n_identical/n_aligned= 0.202
+TM-score= 0.67884 (if normalized by length of Chain_1, i.e., LN=479, d0=7.80)
+TM-score= 0.89064 (if normalized by length of Chain_2, i.e., LN=358, d0=6.88)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d <  5.0 Angstrom, "." denotes other aligned residues)
+MIMLSPLFGIVAFAVLSGLYLIRCLLSPLNRIPGPALAKYTSWVLKWHELNANRTKYIHSLHLKYGPVVRIAPNEVAFASQGAVKEIYCSAGSGYDKTEF-YDLFMVYGRRTMFTTLNKDDHARRKRILADRYANSNVVRQPSLSGIAERANSFAQICAQSVGGSLDLFVILHAYAFDCVTHHLFHPYGANSLYSTSSDEEIMKEVYKDRLIQYYSPTLHKLIAKVLYPFAKPRETPLADRFVLEASAQQGVAPFTLVSRLHEKSSTLDSLDIAAECLDHMAAGIDTTGDGLCFLMWELSQPRSFRFQQRLQQELLEASPETAFDKLPFLDAVVMEGLRCFPAIPMSLPRYVPQGGREIDGFFVPERAIVSCQAYSVHRIDQAVFPQPDLFNPERWLEEDGDAQRRRLMFAFANGGRGCVGKHLALAEMKLLLREVYSRFITLPDPSMTAEMMEMSDQLISSRPLAARCLLRFSPIAKKG
+                               ::.   :::            ::::::::::::: :::: :::::::::::::::::::  :::::::: :::::...::::::: :::::::::::::::::::::::  :::::::::::::::: : : :::::::::::::::::::::::: ::..     :..::.:::::::.        .  ..  ..  ...:...:::::::::::         ::::: :   ::::::::::::::::::::::::::::::::::  ::::::::: ::           :::::::::::::::::::: ::::::: ::::::::::::::::::::::::::   ::::::::::::::.  ......:::::::::::::::::::::::::::::::::::::   .::  :::::: ::::::: ::::::::     
+-------------------------------MKR---LSL------------DPLAVLLEWGRAH-PRLF-LPPLALIFDPEGVEGALLA--EGTTKATFQYRALSRLTGRGLLTD-WGKSWKEARKALKDPFLPKSVRG--YREAMEEEAWAFFGEW-R-G-EERDLDHEMLALSLRLLGRALFGK-PLSP-----SLAEHALKALDRIM--------L--AA--EA--RFRKDRGALYREAEALIV---------HPPLS-H---LPRERALSEAVTLLVAGHETVASALTWSFLLLSH--RPDWQKRVA-ES-----------EEAALAAFQEALRLYPPAWI-LTRRLER-PLLLGEDRLPQGTTLVLSPYVTQRLY---FPEGEAFQPERFLAE--RGTPSGRYFPFGLGQRLCLGRDFALLEGPIVLRAFFRRFRLDP---LPF--PRVLAQ-VTLRPEG-GLPARPRE-----
+
+Total CPU time is  1.30 seconds

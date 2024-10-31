@@ -1,0 +1,54 @@
+CONECT 2618 3073                                                                
+CONECT 3031 3036 3066                                                           
+CONECT 3032 3039 3047                                                           
+CONECT 3033 3050 3055                                                           
+CONECT 3034 3058 3063                                                           
+CONECT 3035 3036 3039 3073                                                      
+CONECT 3036 3031 3035 3037                                                      
+CONECT 3037 3036 3038 3041                                                      
+CONECT 3038 3037 3039 3040                                                      
+CONECT 3039 3032 3035 3038                                                      
+CONECT 3040 3038                                                                
+CONECT 3041 3037 3042                                                           
+CONECT 3042 3041 3043                                                           
+CONECT 3043 3042 3044 3045                                                      
+CONECT 3044 3043                                                                
+CONECT 3045 3043                                                                
+CONECT 3046 3047 3050 3073                                                      
+CONECT 3047 3032 3046 3048                                                      
+CONECT 3048 3047 3049 3051                                                      
+CONECT 3049 3048 3050 3052                                                      
+CONECT 3050 3033 3046 3049                                                      
+CONECT 3051 3048                                                                
+CONECT 3052 3049 3053                                                           
+CONECT 3053 3052                                                                
+CONECT 3054 3055 3058 3073                                                      
+CONECT 3055 3033 3054 3056                                                      
+CONECT 3056 3055 3057 3059                                                      
+CONECT 3057 3056 3058 3060                                                      
+CONECT 3058 3034 3054 3057                                                      
+CONECT 3059 3056                                                                
+CONECT 3060 3057 3061                                                           
+CONECT 3061 3060                                                                
+CONECT 3062 3063 3066 3073                                                      
+CONECT 3063 3034 3062 3064                                                      
+CONECT 3064 3063 3065 3067                                                      
+CONECT 3065 3064 3066 3068                                                      
+CONECT 3066 3031 3062 3065                                                      
+CONECT 3067 3064                                                                
+CONECT 3068 3065 3069                                                           
+CONECT 3069 3068 3070                                                           
+CONECT 3070 3069 3071 3072                                                      
+CONECT 3071 3070                                                                
+CONECT 3072 3070                                                                
+CONECT 3073 2618 3035 3046 3054                                                 
+CONECT 3073 3062 3197                                                           
+CONECT 3074 3075 3076                                                           
+CONECT 3075 3074                                                                
+CONECT 3076 3074 3077                                                           
+CONECT 3077 3076                                                                
+CONECT 3078 3079 3080                                                           
+CONECT 3079 3078                                                                
+CONECT 3080 3078 3081                                                           
+CONECT 3081 3080                                                                
+CONECT 3197 3073                                                                

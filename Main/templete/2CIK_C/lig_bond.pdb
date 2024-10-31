@@ -1,0 +1,24 @@
+CONECT  837 1329                                                                
+CONECT 1329  837                                                                
+CONECT 1654 2109                                                                
+CONECT 2109 1654                                                                
+CONECT 2458 2921                                                                
+CONECT 2921 2458                                                                
+CONECT 3160 3161 3162                                                           
+CONECT 3161 3160                                                                
+CONECT 3162 3160 3163 3164                                                      
+CONECT 3163 3162                                                                
+CONECT 3164 3162 3165                                                           
+CONECT 3165 3164                                                                
+CONECT 3166 3167 3168                                                           
+CONECT 3167 3166                                                                
+CONECT 3168 3166 3169 3170                                                      
+CONECT 3169 3168                                                                
+CONECT 3170 3168 3171                                                           
+CONECT 3171 3170                                                                
+CONECT 3172 3173 3174                                                           
+CONECT 3173 3172                                                                
+CONECT 3174 3172 3175 3176                                                      
+CONECT 3175 3174                                                                
+CONECT 3176 3174 3177                                                           
+CONECT 3177 3176                                                                

@@ -1,0 +1,1 @@
+./templete/5UDA_A/rec.pdb

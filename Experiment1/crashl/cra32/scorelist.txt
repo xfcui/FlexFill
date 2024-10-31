@@ -1,0 +1,10 @@
+./process_pdb/3DBG_A/rec.pdb ./process_pdb/3DBG_A/lig.pdb 0.87802
+./process_pdb/6UEZ_A/rec.pdb ./process_pdb/6UEZ_A/lig.pdb 0.86475
+./process_pdb/3JUS_A/rec.pdb ./process_pdb/3JUS_A/lig.pdb 0.86375
+./process_pdb/3LD6_A/rec.pdb ./process_pdb/3LD6_A/lig.pdb 0.86223
+./process_pdb/3JUV_A/rec.pdb ./process_pdb/3JUV_A/lig.pdb 0.86179
+./process_pdb/6Q2T_A/rec.pdb ./process_pdb/6Q2T_A/lig.pdb 0.8606
+./process_pdb/4UHL_A/rec.pdb ./process_pdb/4UHL_A/lig.pdb 0.86011
+./process_pdb/4H6O_A/rec.pdb ./process_pdb/4H6O_A/lig.pdb 0.85999
+./process_pdb/3EL3_A/rec.pdb ./process_pdb/3EL3_A/lig.pdb 0.85929
+./process_pdb/3ZG2_A/rec.pdb ./process_pdb/3ZG2_A/lig.pdb 0.85895
