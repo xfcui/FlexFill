@@ -13,7 +13,7 @@ import shutil
 
 
 # os.environ['CUDA_VISIBLE_DEVICES']='4'
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '0'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 
 # In[ ]:
@@ -871,6 +871,7 @@ resultax=[]
 
 #blv,top,ifcra,iffes
 #resultax=[]
+print("Start Running")
 for i in range(0,100):
     if i==4 or i==17 or i==23 or i==27 or i==50 or i==77 or i==79 or i==93 or i==95 or i==58:
         continue
@@ -883,7 +884,7 @@ for i in range(0,100):
     succ,crashn,fes=md(suct,1,1,1,i)
     t2=time.time()
     resultax.append([prtpath,succ,crashn,fes,t2-t0+60])
-    print(i,time.time()-t0,succ,crashn,fes)
+    #print(i,time.time()-t0,succ,crashn,fes)
 
 
 # In[39]:

@@ -13,7 +13,7 @@ import shutil
 
 
 # os.environ['CUDA_VISIBLE_DEVICES']='7'
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '0'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 
 # In[ ]:
@@ -773,7 +773,7 @@ def md(tem,ifcra,iffes,idxr,numi):
 
 # In[34]:
 
-
+print("Start running")
 #blv,top,ifcra,iffes
 resultax0=[]
 resultax1=[]
@@ -806,7 +806,7 @@ for i in range(20):
     t5=time.time()
     resultax4.append([prtpath,succ,fes,(t5-t4)+(t1-t0)+60])
     
-    print(i,time.time()-t0)
+    #print(i,time.time()-t0)
 
 
 # In[35]:
@@ -860,7 +860,7 @@ for i in range(20):
     t1x=time.time()
     resultax8.append([prtpath,succ,fes,t1x-t0x+60])
     
-    print(i,time.time()-t0)
+    #print(i,time.time()-t0)
 
 
 # In[37]:
@@ -989,11 +989,24 @@ for i in range(0,8):
 # In[51]:
 
 
-outl=[4,5,6,7,0,1,2]
-for i in outl:
-    print(stdfes[i],crashrate[i],timex[i])
+# outl=[4,5,6,7,0,1,2]
+# for i in outl:
+#     print(stdfes[i],crashrate[i],timex[i])
 
 
+print("-" * 42)
+print(stdfes[5],crashrate[5],timex[5])
+print(stdfes[4],crashrate[4],timex[4])
+print("-" * 42)
+print(stdfes[5],crashrate[5],timex[5])
+print(stdfes[6],crashrate[6],timex[6])
+print(stdfes[7],crashrate[7],timex[7])
+print("-" * 42)
+print(stdfes[5],crashrate[5],timex[5])
+print(stdfes[1],crashrate[1],timex[1])
+print("-" * 42)
+print(stdfes[5],crashrate[5],timex[5])
+print(stdfes[2],crashrate[2],timex[2])
 # In[ ]:
 
 
