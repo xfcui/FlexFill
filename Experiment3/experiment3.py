@@ -284,6 +284,7 @@ plt.plot(highlight_x, highlight_y, 'o', markersize=5, color='blue', label='x=5, 
 plt.legend(fontsize=20)
 
 # 显示图像
+plt.savefig("result3-1.pdf", format='pdf', dpi=2000, bbox_inches='tight')
 plt.show()
 
 for i in range(1,100):
@@ -340,6 +341,7 @@ plt.ylabel('Time(s)')
 plt.legend(fontsize=20)
 
 # 显示图像
+plt.savefig("result3-2.pdf", format='pdf', dpi=2000, bbox_inches='tight')
 plt.show()
 
 for i in range(1,100):

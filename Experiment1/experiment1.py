@@ -1004,6 +1004,7 @@ plt.legend()
 
 #plt.savefig('nphoto1600.png', dpi=600, bbox_inches='tight')
 # 显示图像
+plt.savefig("result1-1.pdf", format='pdf', dpi=2000, bbox_inches='tight')
 plt.show()
 
 
@@ -1111,6 +1112,7 @@ plt.gca().yaxis.set_major_formatter(formatter)
 plt.legend(loc='upper left')
 
 # 显示图表
+plt.savefig("result1-2.pdf", format='pdf', dpi=2000, bbox_inches='tight')
 plt.show()
 
 
@@ -1140,6 +1142,7 @@ for bar in bars:
     yval = bar.get_height()
     plt.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 2), ha='center', va='bottom')
 
+plt.savefig("result1-3.pdf", format='pdf', dpi=2000, bbox_inches='tight')
 plt.show()
 
 
